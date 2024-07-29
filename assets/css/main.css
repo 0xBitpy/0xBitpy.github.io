@@ -1,0 +1,150 @@
+:root {
+	--dark-grey:#151515;
+	--darker-grey:#484848;
+	--light-gray:#2b2b2b;
+	--white:#ffffff;
+	--black:#000000;
+	--purple:#8e00b8;
+	--neon-green:#3fff00;
+	--blue:#6757ff;
+}
+
+@font-face {
+	font-family:"NotJamSlab";
+	src:url("../misc/NotJamSlab14.ttf");
+}
+@font-face {
+	font-family:"XP";
+	src:url("../misc/Windows95.otf");
+}
+@font-face {
+	font-family:"ZX";
+	src:url("../misc/ZXSpectrum.ttf");
+}
+
+html {
+	/* cursor:url("../misc/Wii.cur"), auto; */
+}
+
+body {
+	font-family:"ZX";
+	margin:0px;
+	padding:0px;
+	background-color:var(--black);
+	color:var(--white);
+}	
+
+body img {
+	display:block;
+	width:100%;
+	height:auto;
+}
+
+h1 {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+a {
+	color:var(--neon-green);
+}
+
+/* Top bar */
+.nav ul {
+	list-style:none;
+	background-color:var(--dark-grey);
+	padding:0px;
+	margin:0px;
+	text-align:center;
+}
+
+.nav li {
+	display:inline-block;
+}
+
+.nav li a {
+	color:var(--white);
+	display:block;
+	font-family: "NotJamSlab";
+	font-size:17px;
+	text-align:center;
+	text-decoration:none;
+	padding:20px;
+}
+
+.nav li a:hover {
+	background-color:var(--purple);
+}
+
+/* content box */
+.main {
+	text-align:center;
+	padding:10px;
+	font-size:37px;
+}
+
+.main ul {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+.main li {
+	display:inline-block;
+	padding:12px;
+}
+
+.main a {
+	color:white;
+	text-decoration:none;
+}
+
+.main button {
+	cursor:pointer;
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:20px;
+	padding-top:25px;
+	color:var(--white);
+	transition-duration:0.5s;
+	background-color:var(--dark-grey);
+	border:outset;
+	font-family:"ZX";
+	font-size:37px;
+	border-color:var(--light-gray);
+}
+
+.main button:hover {
+	background-color:var(--purple);
+}
+
+.main ul img {
+	margin:auto;
+	width:128px;
+	height:auto;
+}
+
+/* sides */
+.left img {
+	float:left;
+}
+
+.right img {
+	float:right;
+}
+
+/* XP borders */
+.border_xp_txt {
+	border-style:outset;
+	border-color:var(--light-gray);
+	padding:6px;
+}
+
+.border_xp_img img {
+	border-style:outset;
+	border-color:var(--light-gray);
+}
+
+.bar_xp {
+	font-family: "XP";
+}
