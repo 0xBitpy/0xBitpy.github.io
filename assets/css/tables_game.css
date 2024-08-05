@@ -21,6 +21,7 @@ td {
 td img {
 	float:left;
 	width:6.25%;
+	height:auto;
 }
 
 td:nth-child(odd) {border-color:var(--purple);}
