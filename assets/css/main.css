@@ -41,8 +41,7 @@ body img {
 }
 
 h1 {
-	margin-top:5px;
-	margin-bottom:5px;
+	margin:5px 2px 5px 2px;
 }
 
 a {
@@ -101,10 +100,7 @@ a {
 
 .main button {
 	cursor:pointer;
-	padding-left:50px;
-	padding-right:50px;
-	padding-bottom:20px;
-	padding-top:25px;
+	padding:25px 50x 20px 50px;
 	color:var(--white);
 	transition-duration:0.5s;
 	background-color:var(--dark-grey);

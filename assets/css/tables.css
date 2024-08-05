@@ -6,9 +6,7 @@ table {
 th {
 	border:outset;
 	border-color:var(--darker-grey);
-	padding:3px;
-	padding-left:7px;
-	padding-right:7px;
+	padding:3px 7px 3px 7px;
 	margin:2px;
 }
 
