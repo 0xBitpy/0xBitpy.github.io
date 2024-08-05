@@ -7,6 +7,7 @@
 	--purple:#8e00b8;
 	--neon-green:#3fff00;
 	--blue:#6757ff;
+	--red:#ff1818;
 }
 
 @font-face {
@@ -143,4 +144,8 @@ a {
 
 .bar_xp {
 	font-family: "XP";
+}
+
+.warning {
+	color:var(--red);
 }
