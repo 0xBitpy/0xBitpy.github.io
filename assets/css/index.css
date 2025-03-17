@@ -16,12 +16,12 @@
 @font-face {font-family:"XP";src:url("../misc/Windows95.otf");}
 @font-face {font-family:"ZX";src:url("../misc/ZXSpectrum.ttf");}
 
-body {font-family:"ZX";margin:0px;padding:0px;background-color:var(--black);color:var(--white);}	
-body img {display:block;width:100%;height:auto;}
-h1 {margin:5px 2px 5px 2px;}
-.main {text-align:center;padding:10px;font-size:37px;}
-.main ul {list-style:none;margin:0px;padding:0px;}
-.main li {display:inline-block;padding:12px;}
-.main a {color:white;text-decoration:none;}
-.cube ul li {font-size:50px;padding:30px;}
-.cube ul li img {height:196px;width:auto;}
+body {font-family:"ZX"; margin:0px; padding:0px; background-color:var(--black); color:var(--white);}	
+body img {display:block; width:100%; height:auto;}
+h1 {margin: 5px 2px 5px 2px;}
+.main {text-align:center; padding:10px; font-size:37px;}
+.main ul {list-style:none; margin:0px; padding:0px;}
+.main li {display:inline-block; padding:12px;}
+.main a {color:white; text-decoration:none;}
+.cube ul li {font-size:50px; padding:30px;}
+.cube ul li img {height:156px; width:auto;}
