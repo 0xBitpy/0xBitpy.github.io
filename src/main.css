@@ -19,8 +19,8 @@
 body {font-family:"ZX"; margin:0px; padding:0px; background-color:var(--black); color:var(--white);}
 body img {display:block; width:100%; height:auto;}
 h1 {margin:0px; font-size:90px;}
-em {color:var(--red);}
-a {color:var(--neon-green);}
+em {color:var(--miku);}
+a {color:var(--blue);}
 code {}
 hr {margin:12px; color:var(--light-grey);}
 
@@ -33,26 +33,27 @@ nav li:nth-child(3n) a:hover {background-color: var(--red);}
 nav li:nth-child(4n) a:hover {background-color: var(--neon-green);}
 
 .redirect {font-size:50px; text-align:center; margin-top:20px;}
-.redirect a {color:var(--blue);}
 .redirect img {width:128px; height:auto; margin:auto;}
 
-.main {text-align:center; padding:10px; font-size:37px;}
-.main ul {list-style:none; margin:0px; padding:0px;}
-.main li {display:inline-block; background-color:var(--grey); border:outset; margin:8px;}
-.main a {color:white; text-decoration:none;}
-.main a:hover {background-color:var(--purple);}
-.main ul img {margin:auto; width:128px; height:auto; padding:15px;}
+.main {width:60%; float:left; text-align:center; font-size:45px; margin-top:50px; padding:0px;}
 
-.about {width:60%; float:left; text-align:center; font-size:45px; margin-top:50px;}
-.contact a {color:var(--blue);}
+.content {display:inline-block; width:100%;}
+.content a {margin:2.5% 10% 2.5% 10%; border-style:outset; display:inline-block; font-size:50px; border-color:var(--darker-grey); color:var(--white); word-wrap: break-word;}
+.content a:hover {background-color:var(--purple);}
+.content img {height:30%; width:95%; margin:auto;}
+.content .bar {padding-bottom:15px;}
+
 .rec {text-align:left; margin-left:4px;}
-.updates {text-align:left; margin-left:4px;}
+.updates {text-align:left; margin-left:4px; line-height:15px;}
+.updates em:before {content:">>";}
+.files {text-align:left; margin-left:4px;}
+.files a {color:var(--white);}
 
 aside {width:20%; float:left; font-size:37px; text-align:center; line-height:10px;}
 aside br {margin: 20px 0px 20px 0px;}
 aside img {width:88px; height:31px; display:inline-block; padding:0px;}
 
 .border {border-style:outset; border-color:var(--darker-grey); padding-bottom:15px; margin:10px 5px 10px 5px;}
-.border br {margin-top: 0px;}
-.bar {background-color:var(--dark-grey); padding:12px; text-align:left; margin-bottom:10px; font-size:37px;}
+.border br {margin-top:0px;}
+.bar {background-color:var(--dark-grey); padding:6px 3px 3px 6px; text-align:left; margin-bottom:10px; font-size:37px; line-height:24px;}
 .bar img {width:14px; height:auto; text-align:right; float:right; padding-left:3px;}
