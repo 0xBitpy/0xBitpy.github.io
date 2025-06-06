@@ -10,6 +10,8 @@
 	--blue:#6757ff;
 	--red:#ff1818;
 	--miku:#52e7df;
+	--star:url("./img/star.png");
+	--no_star:url("./img/no_star.png");
 }
 
 @font-face {font-family:"NotJamSlab"; src:url("./misc/NotJamSlab14.ttf");}
@@ -23,6 +25,8 @@ em {color:var(--miku);}
 a {color:var(--blue);}
 code {}
 hr {margin:12px; color:var(--light-grey);}
+
+canvas {border:outset; width:90%;}
 
 nav ul {list-style:none; background-color:var(--dark-grey); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%;}								/* 1 */
 nav li {display:inline-block;}
@@ -38,12 +42,16 @@ nav li:nth-child(4n) a:hover {background-color: var(--neon-green);}
 .main {width:60%; float:left; text-align:center; font-size:40px; margin-top:50px; padding:0px;}
 
 .content {display:inline-block; width:100%;}
-.content a {margin:2.5% 10%; border-style:outset; display:inline-block; font-size:40px; border-color:var(--darker-grey); color:var(--white); word-wrap: break-word;}
+.content a {margin:2.5% 10%; border-style:outset; display:inline-block; font-size:40px; border-color:var(--darker-grey); color:var(--white); word-wrap:break-word;}
 .content a:hover {background-color:var(--purple);}
 .content img {height:30%; width:95%; margin:auto;}
 .content .bar {padding-bottom:15px;}
 .list_content {text-align:left; margin-left:4px; line-height:12px;}
 .list_content a {color:var(--white);}
+
+table {width:90%; margin:auto;}
+td {border:4px outset var(--darker-grey); border-collapse:collapse; font-family:"XP"; font-size:23px; padding:7px;}
+td a {color: var(--white);}
 
 .contact {text-align:left; margin:2.5%;}
 .contact img {width:16px; height:auto; vertical-align:middle; padding-right:2%;}
