@@ -28,6 +28,10 @@ hr {margin:12px; color:var(--light-grey);}
 
 canvas {border:outset; width:90%;}
 
+.click {cursor:pointer; display:inline;}
+#textload {font-size:57px;}
+#imageload {width:50%; height:auto; margin:auto;}
+
 nav ul {list-style:none; background-color:var(--dark-grey); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%;}								/* 1 */
 nav li {display:inline-block;}
 nav li a {float:left; color:var(--white); display:block; font-family: "NotJamSlab"; text-align:center; padding:13px; font-size:19px;}
@@ -52,14 +56,15 @@ nav li:nth-child(4n) a:hover {background-color: var(--neon-green);}
 table {width:90%; margin:auto;}
 td {border:4px outset var(--darker-grey); border-collapse:collapse; font-family:"XP"; font-size:23px; padding:7px;}
 td a {color: var(--white);}
+#web td:nth-child(2) {text-align:left;}
 
-.contact {text-align:left; margin:2.5%;}
+.contact {text-align:left; margin-left:2.5%; overflow-x:auto; overflow-y:hidden;}
 .contact img {width:16px; height:auto; vertical-align:middle; padding-right:2%;}
 .rec {text-align:left; margin-left:4px;}
 .updates {text-align:left; margin-left:4px; line-height:15px;}
 .updates em:before {content:">>";}
-.files {text-align:left; margin-left:4px; line-height:12px;}
-.files a {color:var(--white);}
+.files {text-align:left; margin-left:4px; line-height:15px;}
+.files a {color:var(--white); text-decoration:none;}
 
 aside {width:20%; float:left; font-size:37px; text-align:center; line-height:10px;}
 aside br {margin: 20px 0px;}
