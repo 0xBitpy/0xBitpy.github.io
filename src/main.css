@@ -31,6 +31,7 @@ canvas {border:outset; width:90%;}
 .click {cursor:pointer; display:inline;}
 #textload {font-size:57px;}
 #imageload {width:50%; height:auto; margin:auto;}
+#lastupdate {color:var(--darker-grey);}
 
 nav ul {list-style:none; background-color:var(--dark-grey); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%;}								/* 1 */
 nav li {display:inline-block;}
