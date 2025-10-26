@@ -1,0 +1,59 @@
+{
+	"docs":
+	[
+		{
+			"Id": 1,
+			"Title": "Reverse Engineering for Noobs",
+			"Link": "https://x86re.com",
+			"Description": ""
+		},
+		{
+			"Id": 2,
+			"Title": "ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial",
+			"Link": "https://mariokartwii.com/armv8",
+			"Description": ""
+		},
+		{
+			"Id": 3,
+			"Title": "Giving an Academic Talk",
+			"Link": "http://people.eecs.berkeley.edu/~jrs/speaking.html",
+			"Description": ""
+		},
+		{
+			"Id": 4,
+			"Title": "Learning a Foreign Language (Italian)",
+			"Link": "http://geometer.orgodi/learn.pdf",
+			"Description": ""
+		},
+		{
+			"Id": 5,
+			"Title": "Malware Reverse Engineering for Beginners (Part 1)",
+			"Link": "https://intezer.com/blog/malware-reverse-engineering-beginners",
+			"Description": ""
+		},
+		{
+			"Id": 6,
+			"Title": "Malware Reverse Engineering for Beginners (Part 2)",
+			"Link": "https://intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2",
+			"Description": ""
+		},
+		{
+			"Id": 7,
+			"Title": "What're you telling me, Ghidra?",
+			"Link": "https://byte.how/posts/what-are-you-telling-me-ghidra",
+			"Description": ""
+		},
+		{
+			"Id": 8,
+			"Title": "Song Mod Creation Guide [Hatsune Miku: Project DIVA Mega Mix+]",
+			"Link": "https://gamebanana.comuts/15681",
+			"Description": ""
+		},
+		{
+			"Id": 1,
+			"Title": "",
+			"Link": "",
+			"Description": ""
+		},
+	]
+}

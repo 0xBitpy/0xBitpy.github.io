@@ -1,0 +1,40 @@
+{
+	"code":
+	[
+		{
+			"Id": 1,
+			"Name": "Real-Time Corruptor Vanguard",
+			"Description": "Resources for corrupting video games both for art and entertainment",
+			"Platform": "Windows",
+			"Link": "https://redscientist.com/rtc"
+		},
+		{
+			"Id": 1,
+			"Name": "",
+			"Description": "",
+			"Platform": "",
+			"Link": ""
+		},
+		{
+			"Id": 1,
+			"Name": "",
+			"Description": "",
+			"Platform": "",
+			"Link": ""
+		},
+		{
+			"Id": 1,
+			"Name": "",
+			"Description": "",
+			"Platform": "",
+			"Link": ""
+		},
+		{
+			"Id": 1,
+			"Name": "",
+			"Description": "",
+			"Platform": "",
+			"Link": ""
+		},
+	]
+}

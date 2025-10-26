@@ -1,0 +1,35 @@
+{
+	"keys_codes":
+	[
+		{
+			"Id": 1,
+			"Input": "Szalony Kurczak 2",
+			"Key": "65795",
+			"Description": ""
+		},
+		{
+			"Id": 2,
+			"Input": "Szalony Kurczak 3",
+			"Key": "65795",
+			"Description": ""
+		},
+		{
+			"Id": 3,
+			"Input": "Szalony Kurczak Zimowa",
+			"Key": "84732",
+			"Description": ""
+		},
+		{
+			"Id": 4,
+			"Input": "",
+			"Key": "",
+			"Description": ""
+		},
+		{
+			"Id": 1,
+			"Input": "",
+			"Key": "",
+			"Description": ""
+		},
+	]
+}
