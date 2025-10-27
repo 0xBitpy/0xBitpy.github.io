@@ -10,7 +10,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": "movie"
 		},
 		{
 			"Id": 2,
@@ -21,7 +22,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 3,
@@ -32,7 +34,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 4,
@@ -43,7 +46,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 5,
@@ -54,7 +58,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 6,
@@ -65,7 +70,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 7,
@@ -76,7 +82,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 8,
@@ -87,7 +94,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 9,
@@ -98,7 +106,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 10,
@@ -109,7 +118,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 11,
@@ -120,7 +130,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 12,
@@ -131,7 +142,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 13,
@@ -142,7 +154,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 14,
@@ -153,7 +166,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 15,
@@ -164,7 +178,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 16,
@@ -175,7 +190,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 17,
@@ -186,7 +202,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 18,
@@ -197,7 +214,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 19,
@@ -208,7 +226,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 20,
@@ -219,7 +238,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 21,
@@ -230,7 +250,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 22,
@@ -241,7 +262,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
        		{
 			"Id": 23,
@@ -252,7 +274,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 24,
@@ -263,7 +286,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 25,
@@ -274,7 +298,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 26,
@@ -285,7 +310,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 27,
@@ -296,7 +322,8 @@
 			"Link": "http://rustyquill.com/the-magnus-archives",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 28,
@@ -307,7 +334,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 29,
@@ -318,7 +346,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 30,
@@ -329,7 +358,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 31,
@@ -340,7 +370,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 32,
@@ -351,7 +382,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 33,
@@ -362,7 +394,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 34,
@@ -373,7 +406,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 35,
@@ -384,7 +418,8 @@
 			"Link": "https://en.wikipedia.org/wiki/Johnson_and_Friends",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 36,
@@ -395,7 +430,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 37,
@@ -406,7 +442,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 38,
@@ -417,7 +454,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 39,
@@ -428,7 +466,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 40,
@@ -439,7 +478,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 41,
@@ -450,7 +490,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 42,
@@ -461,7 +502,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 43,
@@ -472,7 +514,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 44,
@@ -483,7 +526,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 45,
@@ -494,7 +538,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 46,
@@ -505,7 +550,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 47,
@@ -516,7 +562,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 48,
@@ -527,7 +574,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 49,
@@ -538,7 +586,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 50,
@@ -549,7 +598,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 51,
@@ -560,7 +610,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 52,
@@ -571,7 +622,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 53,
@@ -582,7 +634,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 54,
@@ -593,7 +646,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 55,
@@ -604,7 +658,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 56,
@@ -615,7 +670,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 57,
@@ -626,7 +682,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 58,
@@ -637,7 +694,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 59,
@@ -648,7 +706,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 60,
@@ -659,7 +718,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 61,
@@ -670,7 +730,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 62,
@@ -681,7 +742,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 63,
@@ -692,7 +754,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 64,
@@ -703,7 +766,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 65,
@@ -714,7 +778,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 66,
@@ -725,7 +790,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 67,
@@ -736,7 +802,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 68,
@@ -747,7 +814,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 69,
@@ -758,7 +826,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 70,
@@ -769,7 +838,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 71,
@@ -780,7 +850,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 72,
@@ -791,7 +862,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 73,
@@ -802,7 +874,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 74,
@@ -813,7 +886,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 75,
@@ -824,7 +898,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 76,
@@ -835,7 +910,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 77,
@@ -846,7 +922,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 78,
@@ -857,7 +934,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 79,
@@ -868,7 +946,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 80,
@@ -879,7 +958,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 81,
@@ -890,7 +970,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 82,
@@ -901,7 +982,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 83,
@@ -912,7 +994,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 84,
@@ -923,7 +1006,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 85,
@@ -934,7 +1018,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 86,
@@ -945,7 +1030,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 87,
@@ -956,7 +1042,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 88,
@@ -967,7 +1054,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 89,
@@ -978,7 +1066,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 90,
@@ -989,7 +1078,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 91,
@@ -1000,7 +1090,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 92,
@@ -1011,7 +1102,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 93,
@@ -1022,7 +1114,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 94,
@@ -1033,7 +1126,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 95,
@@ -1044,7 +1138,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 96,
@@ -1055,7 +1150,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 97,
@@ -1066,7 +1162,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 98,
@@ -1077,7 +1174,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 99,
@@ -1088,7 +1186,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 100,
@@ -1099,7 +1198,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 101,
@@ -1110,7 +1210,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 102,
@@ -1121,7 +1222,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 103,
@@ -1132,7 +1234,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 104,
@@ -1143,7 +1246,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 105,
@@ -1154,7 +1258,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 106,
@@ -1165,7 +1270,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 107,
@@ -1176,7 +1282,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 108,
@@ -1187,7 +1294,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 109,
@@ -1198,7 +1306,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 110,
@@ -1209,7 +1318,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 111,
@@ -1220,7 +1330,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 112,
@@ -1231,7 +1342,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 113,
@@ -1242,7 +1354,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 114,
@@ -1253,7 +1366,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 115,
@@ -1264,7 +1378,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 116,
@@ -1275,7 +1390,8 @@
 			"Link": "",
 			"Watched": 1,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 117,
@@ -1286,7 +1402,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 118,
@@ -1297,7 +1414,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 119,
@@ -1308,7 +1426,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 120,
@@ -1319,7 +1438,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 121,
@@ -1330,7 +1450,8 @@
 			"Link": "https://www.youtube.com/playlist?list=PL53EcsT_0J1wMIhpBJcXtj0TQNuu5SfQs",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 122,
@@ -1341,7 +1462,8 @@
 			"Link": "https://www.youtube.com/channel/UCcj2dTp9G9K4_QvBjJHsAxA",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 123,
@@ -1352,7 +1474,8 @@
 			"Link": "https://www.youtube.com/channel/UCZOnoLKzoBItcEk5OsES2TA",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 124,
@@ -1363,7 +1486,8 @@
 			"Link": "https://www.youtube.com/channel/UCuoMasRkMhlj1VNVAOJdw5w",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 125,
@@ -1374,7 +1498,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 126,
@@ -1385,7 +1510,8 @@
 			"Link": "https://www.youtube.com/channel/UCUSXKVA2AXCWXritsYI_Bhw",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 127,
@@ -1396,7 +1522,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 128,
@@ -1407,7 +1534,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 129,
@@ -1415,21 +1543,23 @@
 			"Description": "",
 			"Release": "",
 			"Studio": "",
-			"Link": "https://www.youtube.com/@LOSDESELATOSFILMS",
+			"Link": "youtube.com/@LOSDESELATOSFILMS",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 130,
-			"Title": "",
+			"Title": "Revolutionary Girl Utena",
 			"Description": "",
-			"Release": "",
-			"Studio": "",
+			"Release": "02.04.1997",
+			"Studio": "Be-Papas",
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 131,
@@ -1440,7 +1570,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 132,
@@ -1451,7 +1582,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 133,
@@ -1462,7 +1594,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 134,
@@ -1473,7 +1606,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 135,
@@ -1484,7 +1618,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 136,
@@ -1495,7 +1630,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 		{
 			"Id": 1,
@@ -1506,7 +1642,8 @@
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
-			"Review": "."
+			"Review": ".",
+			"Genre": ""
 		},
 	]
 }

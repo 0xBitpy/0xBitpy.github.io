@@ -205,18 +205,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 18,
-			"Title": "Zeno",
-			"Description": "Zeno is a psychological horror puzzle adventure game. Scenario-centered, the difficulty of puzzle solving is low. Losing memories and waking up from a mysterious place, a genius and a homicidal maniac, Maeno Aki and Tsugino Haru. These two who are handcuffed together, aim for the exit to escape from this place―",
-			"Platform": "PC",
-			"Release": "06.02.2021",
-			"Developer": "Marutoku Base",
-			"Link": "maduzu.itch.io/zeno",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 18, "Title": "Zeno", "Description": "Zeno is a psychological horror puzzle adventure game. Scenario-centered, the difficulty of puzzle solving is low. Losing memories and waking up from a mysterious place, a genius and a homicidal maniac, Maeno Aki and Tsugino Haru. These two who are handcuffed together, aim for the exit to escape from this place―", "Platform": "PC", "Release": "06.02.2021", "Developer": "Marutoku Base", "Link": "maduzu.itch.io/zeno", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 19,
 			"Title": "AI Limit",
@@ -421,18 +410,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 45,
-			"Title": "Hollow Knight: Silksong",
-			"Description": "Hollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.",
-			"Platform": "PC",
-			"Release": "TBA",
-			"Developer": "Team Cherry",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 45, "Title": "Hollow Knight: Silksong", "Description": "Hollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.", "Platform": "PC", "Release": "04.09.2025", "Developer": "Team Cherry", "Link": "store.steampowered.com/app/1030300", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 46,
 			"Title": "Outer Wilds",

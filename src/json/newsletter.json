@@ -5,106 +5,164 @@
 			"Id": 1,
 			"Title": "Forum Mleczarskie",
 			"Address": "forummleczarskie.pl/newsletter",
-			"Description": "",
-			"Tag": "",
+			"Description": ""
 		},
 		{
 			"Id": 2,
 			"Title": "insertdisc5",
-			"Address": "https://www.insertdisc5.com/mail",
-			"Description": "",
-			"Tag": "",
+			"Address": "insertdisc5.com/mail",
+			"Description": ""
 		},
 		{
 			"Id": 3,
 			"Title": "Manga Gamer",
-			"Address": "https://blog.mangagamer.org/blog",
-			"Description": "",
-			"Tag": "",
+			"Address": "blog.mangagamer.org/blog",
+			"Description": ""
 		},
 		{
 			"Id": 4,
 			"Title": "Kamille",
-			"Address": "https://www.kamille.pl/pl/n/list",
-			"Description": "",
-			"Tag": "",
+			"Address": "kamille.pl/pl/n/list",
+			"Description": ""
 		},
 		{
 			"Id": 5,
 			"Title": "Nature.com",
 			"Address": "",
-			"Description": "",
-			"Tag": "",
+			"Description": ""
 		},
 		{
 			"Id": 6,
 			"Title": "Android Developers",
-			"Address": "https://developer.android.com/newsletter",
-			"Description": "",
-			"Tag": "",
+			"Address": "developer.android.com/newsletter",
+			"Description": ""
 		},
 		{
 			"Id": 7,
 			"Title": "Cheese Profesor",
-			"Address": "https://www.cheeseprofessor.com/blog",
-			"Description": "",
-			"Tag": "",
+			"Address": "cheeseprofessor.com/blog",
+			"Description": ""
 		},
 		{
 			"Id": 8,
 			"Title": "Wojewódzka Biblioteka w Poznaniu",
-			"Address": "https://wbp.poznan.pl",
-			"Description": "",
-			"Tag": "",
+			"Address": "wbp.poznan.pl",
+			"Description": ""
 		},
 		{
 			"Id": 9,
 			"Title": "Templeton World Charity Foundation",
-			"Address": "https://www.templetonworldcharity.org",
-			"Description": "",
-			"Tag": "",
+			"Address": "templetonworldcharity.org",
+			"Description": ""
 		},
 		{
 			"Id": 10,
 			"Title": "Directory of Open Access Journals",
-			"Address": "https://blog.doaj.org",
-			"Description": "",
-			"Tag": "",
+			"Address": "blog.doaj.org",
+			"Description": ""
 		},
 		{
 			"Id": 11,
 			"Title": "Ania Gotuje",
 			"Address": "aniagotuje.pl",
-			"Description": "",
-			"Tag": "",
+			"Description": ""
 		},
 		{
 			"Id": 12,
 			"Title": "Ilawskie Centrum Kultury",
-			"Address": "https://ick.miastoilawa.pl",
-			"Description": "",
-			"Tag": "",
+			"Address": "ick.miastoilawa.pl",
+			"Description": ""
 		},
 		{
 			"Id": 13,
 			"Title": "Ksiegarnia PWN",
-			"Address": "https://ksiegarnia.pwn.pl",
-			"Description": "",
-			"Tag": "",
+			"Address": "ksiegarnia.pwn.pl",
+			"Description": ""
 		},
 		{
 			"Id": 14,
 			"Title": "Polska Agencja Rozwoju Przedsiebiorczosci",
-			"Address": "https://parp.gov.pl",
-			"Description": "",
-			"Tag": "",
+			"Address": "parp.gov.pl",
+			"Description": ""
 		},
 		{
-			"Id": 1,
+			"Id": 15,
+			"Title": "Lublin Miasto Inspiracji",
+			"Address": "lublin.eu/newsletter",
+			"Description": ""
+		},
+		{
+			"Id": 16,
+			"Title": "NVIDIA",
+			"Address": "nvidia.com/en-us/preferences/email-signup",
+			"Description": ""
+		},
+		{
+			"Id": 17,
+			"Title": "Teatr Stary Lublin",
+			"Address": "teatrstary.eu",
+			"Description": ""
+		},
+		{"Id": 18, "Title": "Raspberry Pi Weekly", "Address": "raspberrypi.com/weekly", "Description": "Weekly round-up of Raspberry Pi product updates, project and events"},
+		{"Id": 19, "Title": "Raspberry Pi Industry Quarterly", "Address": "raspberrypi.com/for-industry/newsletter", "Description": "Updates on Raspberry Pi product releases, availability, product change notices and white papers"},
+		{
+			"Id": 20,
+			"Title": "Narodowe Centrum Nauki",
+			"Address": "ncn.gov.pl/newsletter",
+			"Description": ""
+		},
+		{"Id": 21, "Title": "Museum Bums", "Address": "museumbums.com", "Description": "Book, events, museums about bums"},
+		{"Id": 22, "Title": "NomnomNami", "Address": "nomnomnami.com", "Description": "Games and updates from NomnomNami"},
+		{
+			"Id": 23,
+			"Title": "Reading Project",
+			"Address": "readingproject.au",
+			"Description": ""
+		},
+		{
+			"Id": 24,
+			"Title": "Dice Exploder",
+			"Address": "diceexploder.com",
+			"Description": ""
+		},
+		{"Id": 25, "Title": "Global Biodiversity Information Facility (GBIF)", "Address": "gbif.org/article/57H8c0c5VuUKsweuy6Ek4s/subscribe", "Description": "Latest news from GBIF"},
+		{"Id": 26, "Title": "Paper Hearts Bookstore", "Address": "paperheartsbooks.com", "Description": "Book events and news"},
+		{"Id": 27, "Title": "National Institute on Alcohol Abuse and Alcoholism", "Address": "niaaa.nih.gov", "Description": "Research on influence of alcohol"},
+		{
+			"Id": 28,
 			"Title": "",
 			"Address": "",
-			"Description": "",
-			"Tag": "",
+			"Description": ""
+		},
+		{
+			"Id": 29,
+			"Title": "",
+			"Address": "",
+			"Description": ""
+		},
+		{
+			"Id": 30,
+			"Title": "",
+			"Address": "",
+			"Description": ""
+		},
+		{
+			"Id": 31,
+			"Title": "",
+			"Address": "",
+			"Description": ""
+		},
+		{
+			"Id": 32,
+			"Title": "",
+			"Address": "",
+			"Description": ""
+		},
+		{
+			"Id": 33,
+			"Title": "",
+			"Address": "",
+			"Description": ""
 		},
 	]
 }

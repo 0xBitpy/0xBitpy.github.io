@@ -794,7 +794,55 @@
 			"Review": "."
 		},
         {
-			"Id": 1,
+			"Id": 67,
+			"Title": "Kamikaze Girls",
+			"Description": "",
+			"Release": "00.09.2002",
+			"Author": "Novala Takemoto",
+			"ISBN": "",
+			"Read": 0,
+			"Link": "",
+			"Score": "0/5",
+			"Review": "."
+		},
+        {
+			"Id": 68,
+			"Title": "How To Make Sense Of Any Mess",
+			"Description": "",
+			"Release": "",
+			"Author": "Abby Covert",
+			"ISBN": "",
+			"Read": 0,
+			"Link": "howtomakesenseofanymess.com",
+			"Score": "0/5",
+			"Review": "."
+		},
+        {
+			"Id": 69,
+			"Title": "Books and Dagger",
+			"Description": "How Scholars and Librarians became the unlikely spies of WW2",
+			"Release": "",
+			"Author": "Elyse Graham",
+			"ISBN": "9780063280847",
+			"Read": 0,
+			"Link": "",
+			"Score": "0/5",
+			"Review": "."
+		},
+        {
+			"Id": 70,
+			"Title": "Squeak",
+			"Description": "",
+			"Release": "",
+			"Author": "Vera Valentine",
+			"ISBN": "",
+			"Read": 0,
+			"Link": "",
+			"Score": "0/5",
+			"Review": "."
+		},
+        {
+			"Id": 71,
 			"Title": "",
 			"Description": "",
 			"Release": "",
@@ -806,7 +854,7 @@
 			"Review": "."
 		},
         {
-			"Id": 1,
+			"Id": 72,
 			"Title": "",
 			"Description": "",
 			"Release": "",
@@ -818,55 +866,7 @@
 			"Review": "."
 		},
         {
-			"Id": 1,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Author": "",
-			"ISBN": "",
-			"Read": 0,
-			"Link": "",
-			"Score": "0/5",
-			"Review": "."
-		},
-        {
-			"Id": 1,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Author": "",
-			"ISBN": "",
-			"Read": 0,
-			"Link": "",
-			"Score": "0/5",
-			"Review": "."
-		},
-        {
-			"Id": 1,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Author": "",
-			"ISBN": "",
-			"Read": 0,
-			"Link": "",
-			"Score": "0/5",
-			"Review": "."
-		},
-        {
-			"Id": 1,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Author": "",
-			"ISBN": "",
-			"Read": 0,
-			"Link": "",
-			"Score": "0/5",
-			"Review": "."
-		},
-        {
-			"Id": 1,
+			"Id": 73,
 			"Title": "",
 			"Description": "",
 			"Release": "",

@@ -1,0 +1,21 @@
+{
+	"search":
+	[
+		{"Id": 1, "Title": "Wiby", "Link": "wiby.org", "Description": "Old websites without JavaScript"},
+		{"Id": 2, "Title": "Zoom Platform", "Link": "zoom-platform.com", "Description": "Old games"},
+		{"Id": 3, "Title": "Global Biodiversity Information Facility (GBIF)", "Link": "gbif.org", "Description": "Biodiversity data about life on Earth"},
+		{"Id": 4, "Title": "Digital Archive at VGHF Library", "Link": "archive.gamehistory.org", "Description": "Digitally presered content from Video Game History Foundation"},
+		{
+			"Id": 5,
+			"Title": "",
+			"Link": "",
+			"Description": ""
+		},
+		{
+			"Id": 1,
+			"Title": "",
+			"Link": "",
+			"Description": ""
+		},
+	]
+}
