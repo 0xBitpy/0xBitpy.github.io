@@ -25,30 +25,8 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 3,
-			"Title": "Dohna Dohna: Let's Do Bad Things Together!",
-			"Description": "Dohna Dohna (ドーナドーナ いっしょにわるいことをしよう, literally translating to 'Dohna Dohna: Let's Do Bad Things Together!'), stylized as 'doHna:doHna,' is a RPG/Management game developed by Alicesoft released on November 27, 2020.",
-			"Platform": "PC",
-			"Release": "27.11.2020",
-			"Developer": "Alicesoft, DLsite",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 4,
-			"Title": "Gravity Rush Remastered",
-			"Description": "Gravity Rush is an action-adventure video game developed by SIE Japan Studio and Project Siren, and published by Sony Computer Entertainment. Gravity Rush Remastered is the PS4 remaster of the original Gravity Rush game which is bundled with all the previously released downloadable content.",
-			"Platform": "PS4",
-			"Release": "10.12.2015",
-			"Developer": "SCE Japan Studio, Sony Computer Entertainment",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 3, "Title": "Dohna Dohna: Let's Do Bad Things Together!", "Description": "Dohna Dohna (ドーナドーナ いっしょにわるいことをしよう, literally translating to 'Dohna Dohna: Let's Do Bad Things Together!'), stylized as 'doHna:doHna,' is a RPG/Management game developed by Alicesoft released on November 27, 2020.", "Platform": "PC", "Release": "27.11.2020", "Developer": "Alicesoft & DLsite", "Link": "johren.games/games/download/dohna-dohna-en/", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 4, "Title": "Gravity Rush Remastered", "Description": "Gravity Rush is an action-adventure video game developed by SIE Japan Studio and Project Siren, and published by Sony Computer Entertainment. Gravity Rush Remastered is the PS4 remaster of the original Gravity Rush game which is bundled with all the previously released downloadable content.", "Platform": "PS4", "Release": "10.12.2015", "Developer": "SCE Japan Studio, Sony Computer Entertainment", "Link": "store.playstation.com/en-us/product/UP9000-CUSA01130_00-GRAVITYRUSHHD000", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 5,
 			"Title": "NieR Re[in]carnation",
@@ -61,114 +39,15 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 6,
-			"Title": "Alan Wake II",
-			"Description": "Alan Wake 2 marks Remedy Entertainment’s first foray into the survival horror genre. Ritualistic murders in a small town. A writer trapped in a nightmare. An FBI agent looking for answers. Two realities. Two hero characters. One horror story that wants them dead.",
-			"Platform": "PC/PS5/Xbox Series",
-			"Release": "27.10.2023",
-			"Developer": "Remedy Entertainment, Epic Games Publishing",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 7,
-			"Title": "Atlyss",
-			"Description": "Enter the world of ATLYSS, a single-player/online RPG where you can fight with or against friends in a surreal world filled with creatures beyond comprehension. Customize and progress your character(s), complete quests, and discover strange locations.",
-			"Platform": "PC",
-			"Release": "22.11.2024",
-			"Developer": "KisSoft",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 8,
-			"Title": "Blue Revolver: Double Action",
-			"Description": "After a long time in development and a fruitful public beta, Blue Revolver: Double Action is now available for all players. Go forth and flourish! Double Action is a large, free update to our game. We wanted to give players the best possible version of the game. There's rebalancing, new weapons, new content, a ton of new features and options -- including a super-smooth 120Hz mode!",
-			"Platform": "PC",
-			"Release": "14.11.2024",
-			"Developer": "Stellar Circle",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 9,
-			"Title": "Backwater Eulogy",
-			"Description": "Backwater Eulogy is a stream of consciousness, autobiographical exploration of loss and the double-sided nature of grief. Told as a linear narrative, there are no choices, and there are no alternate endings. Sit and stay for a moment, before leaving. Taking the form of a short visual novel, this is a short story of sorts about grief, moving on, and life in the rural Midwest. As a 'kinetic novel' there are no alternative routes or choices- just one storyline to follow to its inevitable conclusion. Placing an emphasis on a small, curated experience, it is best experienced in one sitting.",
-			"Platform": "PC",
-			"Release": "26.08.2024",
-			"Developer": "WURM FUD",
-			"Link": "wurmfud.itch.io/backwater-eulogy",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 10,
-			"Title": "Nubby's Number Factory",
-			"Description": "Plinko-style roguelike where you work at a number factory. Launch your spherical friend, Nubby, down a pegboard to make bigger and bigger numbers! But beware, if you fail to meet your number quota, the sun will explode.",
-			"Platform": "PC",
-			"Release": "07.03.2025",
-			"Developer": "MogDogBlog Productions",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 11,
-			"Title": "VA-11 Hall-A Kids",
-			"Description": "VA-11 Hall-A Kids is a freeware game released on the April Fools of 2018. The game is a light-hearted parody of VA-11 Hall-A, set in a high school with the female cast changed into schoolgirls. The plot follows Dana Zane as she investigate who crashed Sei's festival booth. Gameplay is very simple, involving mostly talking with the characters and looking into places or people. The game is also very short, being finished in a matter of minutes.",
-			"Platform": "PC",
-			"Release": "01.04.2018",
-			"Developer": "SUKEBAN",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 12,
-			"Title": "VA-11 Hall-A: Cyberpunk Bartender Action",
-			"Description": "Learn about daily life in a cyberpunk dystopia. A branching storyline where your decisions do not depend on traditional choices, but through the drinks you prepare. Visuals inspired by old japanese adventure games for the PC-98, with a modern touch for an other-wordly experience. A beatiful soundtrack composed entirely by Garoad. Get to know your clients, their tastes, and prepare the drink that will change their lives.",
-			"Platform": "PC",
-			"Release": "21.06.2016",
-			"Developer": "SUKEBAN, Ysbryd Games",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 13,
-			"Title": "Alisa",
-			"Description": "Alisa is a classic late-90s style horror-themed action adventure game set in a fantasy universe inspired on the 1920s. You play as an Elite Royal Agent called Alisa. While she is chasing a wanted criminal, she ends up in an old victorian mansion. She tries to find a way out while being haunted by materialized/mechanized doll-like humanoids. Can you survive the Dollhouse?",
-			"Platform": "PC",
-			"Release": "22.10.2021",
-			"Developer": "Casper Croes",
-			"Link": "store.steampowered.com/app/1335530/Alisa",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 14,
-			"Title": "ASTRONEER",
-			"Description": "Explore and exploit distant worlds in a game of aerospace industry and interplanetary exploration. With your gun you can reshape the landscape around you and gather resources. On your journey you come across special artifacts that will provide you with research points, in order to unlock new technologies. These include rovers and spaceships, in order the expand your reach on the planets in the solar system. The game also has a co-op mode, allowing players to explore the planets with their friends.",
-			"Platform": "PC",
-			"Release": "05.02.2019",
-			"Developer": "System Era Softworks",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 6, "Title": "Alan Wake II", "Description": "Alan Wake 2 marks Remedy Entertainment’s first foray into the survival horror genre. Ritualistic murders in a small town. A writer trapped in a nightmare. An FBI agent looking for answers. Two realities. Two hero characters. One horror story that wants them dead.", "Platform": "PC/PS5/Xbox Series", "Release": "27.10.2023", "Developer": "Remedy Entertainment, Epic Games Publishing", "Link": "store.epicgames.com/en-US/p/alan-wake-2", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 7, "Title": "ATLYSS", "Description": "Enter the world of ATLYSS, a single-player/online RPG where you can fight with or against friends in a surreal world filled with creatures beyond comprehension. Customize and progress your character(s), complete quests, and discover strange locations.", "Platform": "PC", "Release": "22.11.2024", "Developer": "KisSoft", "Link": "store.steampowered.com/app/2768430", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 8, "Title": "Blue Revolver: Double Action", "Description": "After a long time in development and a fruitful public beta, Blue Revolver: Double Action is now available for all players. Go forth and flourish! Double Action is a large, free update to our game. We wanted to give players the best possible version of the game. There's rebalancing, new weapons, new content, a ton of new features and options -- including a super-smooth 120Hz mode!", "Platform": "PC", "Release": "14.11.2024", "Developer": "Stellar Circle", "Link": "store.steampowered.com/app/439490", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 9, "Title": "Backwater Eulogy", "Description": "Backwater Eulogy is a stream of consciousness, autobiographical exploration of loss and the double-sided nature of grief. Told as a linear narrative, there are no choices, and there are no alternate endings. Sit and stay for a moment, before leaving. Taking the form of a short visual novel, this is a short story of sorts about grief, moving on, and life in the rural Midwest. As a 'kinetic novel' there are no alternative routes or choices- just one storyline to follow to its inevitable conclusion. Placing an emphasis on a small, curated experience, it is best experienced in one sitting.", "Platform": "PC", "Release": "26.08.2024", "Developer": "WURM FUD", "Link": "wurmfud.itch.io/backwater-eulogy", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 10, "Title": "Nubby's Number Factory", "Description": "Plinko-style roguelike where you work at a number factory. Launch your spherical friend, Nubby, down a pegboard to make bigger and bigger numbers! But beware, if you fail to meet your number quota, the sun will explode.", "Platform": "PC", "Release": "07.03.2025", "Developer": "MogDogBlog Productions", "Link": "store.steampowered.com/app/3191030", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 11, "Title": "VA-11 Hall-A Kids", "Description": "VA-11 Hall-A Kids is a freeware game released on the April Fools of 2018. The game is a light-hearted parody of VA-11 Hall-A, set in a high school with the female cast changed into schoolgirls. The plot follows Dana Zane as she investigate who crashed Sei's festival booth. Gameplay is very simple, involving mostly talking with the characters and looking into places or people. The game is also very short, being finished in a matter of minutes.", "Platform": "PC", "Release": "01.04.2018", "Developer": "SUKEBAN", "Link": "sukebangames.itch.io/valhallakids", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 12, "Title": "VA-11 Hall-A: Cyberpunk Bartender Action", "Description": "Learn about daily life in a cyberpunk dystopia. A branching storyline where your decisions do not depend on traditional choices, but through the drinks you prepare. Visuals inspired by old japanese adventure games for the PC-98, with a modern touch for an other-wordly experience. A beatiful soundtrack composed entirely by Garoad. Get to know your clients, their tastes, and prepare the drink that will change their lives.", "Platform": "PC", "Release": "21.06.2016", "Developer": "SUKEBAN, Ysbryd Games", "Link": "store.steampowered.com/app/447530", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 13, "Title": "Alisa", "Description": "Alisa is a classic late-90s style horror-themed action adventure game set in a fantasy universe inspired on the 1920s. You play as an Elite Royal Agent called Alisa. While she is chasing a wanted criminal, she ends up in an old victorian mansion. She tries to find a way out while being haunted by materialized/mechanized doll-like humanoids. Can you survive the Dollhouse?", "Platform": "PC", "Release": "22.10.2021", "Developer": "Casper Croes", "Link": "store.steampowered.com/app/1335530/Alisa", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 14, "Title": "ASTRONEER", "Description": "Explore and exploit distant worlds in a game of aerospace industry and interplanetary exploration. With your gun you can reshape the landscape around you and gather resources. On your journey you come across special artifacts that will provide you with research points, in order to unlock new technologies. These include rovers and spaceships, in order the expand your reach on the planets in the solar system. The game also has a co-op mode, allowing players to explore the planets with their friends.", "Platform": "PC", "Release": "05.02.2019", "Developer": "System Era Softworks", "Link": "store.steampowered.com/app/361420", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 15,
 			"Title": "Cosmology of Kyoto",
@@ -181,18 +60,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 16,
-			"Title": "Disco Elysium",
-			"Description": "Disco Elysium is a role-playing game developed and published by ZA/UM. It is set in the fictional city of Revachol, where players assume the role of an amnesiac detective investigating a murder case. The game emphasises dialogue and skill-based choices, with character attributes represented by internal voices that influence decisions and interactions. Its narrative explores themes of politics, philosophy, and personal identity, and it is known for its unconventional gameplay and deep storytelling.",
-			"Platform": "PC",
-			"Release": "15.10.2019",
-			"Developer": "ZA/UM",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 16, "Title": "Disco Elysium", "Description": "Disco Elysium is a role-playing game developed and published by ZA/UM. It is set in the fictional city of Revachol, where players assume the role of an amnesiac detective investigating a murder case. The game emphasises dialogue and skill-based choices, with character attributes represented by internal voices that influence decisions and interactions. Its narrative explores themes of politics, philosophy, and personal identity, and it is known for its unconventional gameplay and deep storytelling.", "Platform": "PC", "Release": "15.10.2019", "Developer": "ZA/UM", "Link": "store.steampowered.com/app/632470", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 17,
 			"Title": "Vivid/Stasis",
@@ -206,30 +74,8 @@
 			"Review": "."
 		},
 		{"Id": 18, "Title": "Zeno", "Description": "Zeno is a psychological horror puzzle adventure game. Scenario-centered, the difficulty of puzzle solving is low. Losing memories and waking up from a mysterious place, a genius and a homicidal maniac, Maeno Aki and Tsugino Haru. These two who are handcuffed together, aim for the exit to escape from this place―", "Platform": "PC", "Release": "06.02.2021", "Developer": "Marutoku Base", "Link": "maduzu.itch.io/zeno", "Played": 0, "Score": "0/5", "Review": "."},
-		{
-			"Id": 19,
-			"Title": "AI Limit",
-			"Description": "In the distant future when civilization is on the verge of extinction, people follow the legend of the Elysium in the last city, Havenswell. In this post-apocalyptic wasteland sci-fi ARPG, you will play as Arrisa, a Blader with immortality, and explore the city ruin to find the hope of a new life.",
-			"Platform": "PC",
-			"Release": "27.03.2025",
-			"Developer": "Sense Games, CE-Asia",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 20,
-			"Title": "Bayonetta",
-			"Description": "A member of an ancient witch clan and possessing powers beyond the comprehension of mere mortals, Bayonetta faces-off against countless angelic enemies, many reaching epic proportions, in a game of 100% pure, unadulterated all-out action. Outlandish finishing moves are performed with balletic grace as Bayonetta flows from one fight to another. With magnificent over-the-top action taking place in stages that are a veritable theme park of exciting attractions, Bayonetta pushes the limits of the action genre, bringing to life its fast-paced, dynamic climax combat.",
-			"Platform": "PC/PS3/X360",
-			"Release": "29.10.2009",
-			"Developer": "PlatinumGames, Nintendo",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 19, "Title": "AI Limit", "Description": "In the distant future when civilization is on the verge of extinction, people follow the legend of the Elysium in the last city, Havenswell. In this post-apocalyptic wasteland sci-fi ARPG, you will play as Arrisa, a Blader with immortality, and explore the city ruin to find the hope of a new life.", "Platform": "PC", "Release": "27.03.2025", "Developer": "Sense Games, CE-Asia", "Link": "store.steampowered.com/app/2407270", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 20, "Title": "Bayonetta", "Description": "A member of an ancient witch clan and possessing powers beyond the comprehension of mere mortals, Bayonetta faces-off against countless angelic enemies, many reaching epic proportions, in a game of 100% pure, unadulterated all-out action. Outlandish finishing moves are performed with balletic grace as Bayonetta flows from one fight to another. With magnificent over-the-top action taking place in stages that are a veritable theme park of exciting attractions, Bayonetta pushes the limits of the action genre, bringing to life its fast-paced, dynamic climax combat.", "Platform": "PC/PS3/X360", "Release": "29.10.2009", "Developer": "PlatinumGames, Nintendo", "Link": "store.steampowered.com/app/460790", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 21,
 			"Title": "B3313",
@@ -242,78 +88,12 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 22,
-			"Title": "Library of Ruina",
-			"Description": "'May you find your book in this place.' Roland, a low-grade Fixer from a location known only as the City, one day finds himself transported into the foyer of the titular Library, a mysterious location filled with books on any subject one could think of. He soon meets the Head Librarian Angela, and after a brief scuffle, she decides to spare him and recruits him to be her guide on the outside world. Angela has a strange way of going about it though, as she sends out calling cards called Invitations to ask people to come to the Library and gives them a choice in whether they accept or decline. If the guests accept, they must survive mortal combat against the Librarians that guard the building; if they win, they can take any book they want. If they lose, they will become a book themselves. All of this is in service to Angela's goal — gaining the one 'perfect' book that can make her into a human.",
-			"Platform": "PC",
-			"Release": "10.08.2021",
-			"Developer": "Project Moon, Arc System Works",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 23,
-			"Title": "The Void",
-			"Description": "A first-person game in which after starving to death, the player wakes up in the Void, a dying land housing numerous Sisters and long-absent Brothers, all of whom subsist on Color, the essence of life in the Void. With the player's arrival, a resurgence of Color is observed in the Void, prompting the Brothers to return and subject the player to various trials so that he may also become a Brother by using and sharing Color.",
-			"Platform": "PC",
-			"Release": "17.04.2008",
-			"Developer": "Ice-Pick Lodge, Atari",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 24,
-			"Title": "Crystar",
-			"Description": "The player controls a beautiful girl named Rei Hatada, who in order to “revive” her dead younger sister Mirai Hatada, makes a deal with the devil of the other world that is limbo. The story will progress as you fight the souls that drift about limbo. Also, by defeating specific enemies, “Danmatsuma Thoughts” will appear, which by “crying to purify” will develop the protagonist mentally. In accordance with that, you can obtain weapons called “Shisou,” or “Mental Armor.”",
-			"Platform": "PC",
-			"Release": "18.10.2018",
-			"Developer": "Gemdrops, Spike Chunsoft",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 25,
-			"Title": "Lost in Vivo",
-			"Description": "A horror game about claustrophobia. During a storm your service dog is forced down a broken sewer drain. You find the nearest sewer entrance and run in after it. Along the way you will meet others that are also stricken by abnormal or psychological fear.",
-			"Platform": "PC",
-			"Release": "05.11.2018",
-			"Developer": "KIRA",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 26,
-			"Title": "Long Live the Queen",
-			"Description": "Rule the world or die trying! Being a Princess is not an easy job. Being a Queen is even harder. Especially when you're only fourteen years old, and the reason you've inherited the throne is that your royal mother has just met an untimely end. Now power is up for grabs.",
-			"Platform": "PC",
-			"Release": "02.06.2012",
-			"Developer": "Hanako Games, Ratalaika Games",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 27,
-			"Title": "We Know the Devil",
-			"Description": "We Know the Devil is a visual novel about teens reluctantly fighting the devil at summer camp. Follow meangirl Neptune, tomboy Jupiter, and shy shy Venus as they get to know each other--but one always gets left out.",
-			"Platform": "PC",
-			"Release": "12.09.2015",
-			"Developer": "Date Nighto, Pillow Fight",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 22, "Title": "Library of Ruina", "Description": "'May you find your book in this place.' Roland, a low-grade Fixer from a location known only as the City, one day finds himself transported into the foyer of the titular Library, a mysterious location filled with books on any subject one could think of. He soon meets the Head Librarian Angela, and after a brief scuffle, she decides to spare him and recruits him to be her guide on the outside world. Angela has a strange way of going about it though, as she sends out calling cards called Invitations to ask people to come to the Library and gives them a choice in whether they accept or decline. If the guests accept, they must survive mortal combat against the Librarians that guard the building; if they win, they can take any book they want. If they lose, they will become a book themselves. All of this is in service to Angela's goal — gaining the one 'perfect' book that can make her into a human.", "Platform": "PC", "Release": "10.08.2021", "Developer": "Project Moon, Arc System Works", "Link": "store.steampowered.com/app/1256670", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 23, "Title": "The Void", "Description": "A first-person game in which after starving to death, the player wakes up in the Void, a dying land housing numerous Sisters and long-absent Brothers, all of whom subsist on Color, the essence of life in the Void. With the player's arrival, a resurgence of Color is observed in the Void, prompting the Brothers to return and subject the player to various trials so that he may also become a Brother by using and sharing Color.", "Platform": "PC", "Release": "17.04.2008", "Developer": "Ice-Pick Lodge, Atari", "Link": "store.steampowered.com/app/37000", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 24, "Title": "Crystar", "Description": "The player controls a beautiful girl named Rei Hatada, who in order to “revive” her dead younger sister Mirai Hatada, makes a deal with the devil of the other world that is limbo. The story will progress as you fight the souls that drift about limbo. Also, by defeating specific enemies, “Danmatsuma Thoughts” will appear, which by “crying to purify” will develop the protagonist mentally. In accordance with that, you can obtain weapons called “Shisou,” or “Mental Armor.”", "Platform": "PC", "Release": "18.10.2018", "Developer": "Gemdrops, Spike Chunsoft", "Link": "store.steampowered.com/app/981750", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 25, "Title": "Lost in Vivo", "Description": "A horror game about claustrophobia. During a storm your service dog is forced down a broken sewer drain. You find the nearest sewer entrance and run in after it. Along the way you will meet others that are also stricken by abnormal or psychological fear.", "Platform": "PC", "Release": "05.11.2018", "Developer": "KIRA", "Link": "store.steampowered.com/app/963710", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 26, "Title": "Long Live the Queen", "Description": "Rule the world or die trying! Being a Princess is not an easy job. Being a Queen is even harder. Especially when you're only fourteen years old, and the reason you've inherited the throne is that your royal mother has just met an untimely end. Now power is up for grabs.", "Platform": "PC", "Release": "02.06.2012", "Developer": "Hanako Games, Ratalaika Games", "Link": "store.steampowered.com/app/251990", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 27, "Title": "We Know the Devil", "Description": "We Know the Devil is a visual novel about teens reluctantly fighting the devil at summer camp. Follow meangirl Neptune, tomboy Jupiter, and shy shy Venus as they get to know each other--but one always gets left out.", "Platform": "PC", "Release": "12.09.2015", "Developer": "Date Nighto, Pillow Fight", "Link": "store.steampowered.com/app/435300", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 28,
 			"Title": "Dante's Inferno",
@@ -338,18 +118,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 30,
-			"Title": "Lobotomy Corporation",
-			"Description": "Monster Management Rogue-Lite Simulation game inspired by the monsters from game and movies such as SCP Foundation, Cabin in the woods and Warehouse 13. One disaster will cause another, and it will lead everything into chaos. Manage and Survive.",
-			"Platform": "PC",
-			"Release": "09.04.2018",
-			"Developer": "Project Moon",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 30, "Title": "Lobotomy Corporation", "Description": "Monster Management Rogue-Lite Simulation game inspired by the monsters from game and movies such as SCP Foundation, Cabin in the woods and Warehouse 13. One disaster will cause another, and it will lead everything into chaos. Manage and Survive.", "Platform": "PC", "Release": "09.04.2018", "Developer": "Project Moon", "Link": "store.steampowered.com/app/568220", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 40,
 			"Title": "Bad Ice Cream",
@@ -362,18 +131,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 41,
-			"Title": "Crymachina",
-			"Description": "Crymachina is an action RPG where mechanical girls strive to survive in a post-apocalyptic world to become 'Real Humans'. But what does it mean to be a 'Real Human'?",
-			"Platform": "PC",
-			"Release": "27.07.2023",
-			"Developer": "FuRyu, NIS America",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 41, "Title": "Crymachina", "Description": "Crymachina is an action RPG where mechanical girls strive to survive in a post-apocalyptic world to become 'Real Humans'. But what does it mean to be a 'Real Human'?", "Platform": "PC", "Release": "27.07.2023", "Developer": "FuRyu, NIS America", "Link": "store.steampowered.com/app/2258500", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 42,
 			"Title": "Super Paper Mario",
@@ -386,43 +144,10 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 43,
-			"Title": "Look Outside",
-			"Description": "Explore the warped interior of the apartment building you are stuck in. Fight hideous monsters that were once your neighbors. Manage weapons and ammo. Play video games. Craft bombs from household supplies. Cook. Answer the door. DONT let them in. Keep yourself alive and sane as the world just outside your window stops making sense. Just whatever you do... DONT LOOK OUTSIDE A survival horror RPG by Francis Coulombe, with music by Eric Shumaker, made in one month for the Hawktober game jam.",
-			"Platform": "PC",
-			"Release": "21.03.2025",
-			"Developer": "FrankieSmileShow, Devolver Digital",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 44,
-			"Title": "Tower of Mask",
-			"Description": "Tower of Mask is a thrilling survival horror in the spirit of the 80's dungeon crawlers. The most claustrophobic dungeon in modern times is yours to venture through alone. Hero, face the ancient tower where eerie masked humans prowl.",
-			"Platform": "PC",
-			"Release": "07.12.2024",
-			"Developer": "Papertip Studio",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 43, "Title": "Look Outside", "Description": "Explore the warped interior of the apartment building you are stuck in. Fight hideous monsters that were once your neighbors. Manage weapons and ammo. Play video games. Craft bombs from household supplies. Cook. Answer the door. DONT let them in. Keep yourself alive and sane as the world just outside your window stops making sense. Just whatever you do... DONT LOOK OUTSIDE A survival horror RPG by Francis Coulombe, with music by Eric Shumaker, made in one month for the Hawktober game jam.", "Platform": "PC", "Release": "21.03.2025", "Developer": "FrankieSmileShow, Devolver Digital", "Link": "store.steampowered.com/app/3373660", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 44, "Title": "Tower of Mask", "Description": "Tower of Mask is a thrilling survival horror in the spirit of the 80's dungeon crawlers. The most claustrophobic dungeon in modern times is yours to venture through alone. Hero, face the ancient tower where eerie masked humans prowl.", "Platform": "PC", "Release": "07.12.2024", "Developer": "Papertip Studio", "Link": "store.steampowered.com/app/2918410", "Played": 0, "Score": "0/5", "Review": "."},
 		{"Id": 45, "Title": "Hollow Knight: Silksong", "Description": "Hollow Knight: Silksong is the epic sequel to Hollow Knight, the epic action-adventure of bugs and heroes. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past.", "Platform": "PC", "Release": "04.09.2025", "Developer": "Team Cherry", "Link": "store.steampowered.com/app/1030300", "Played": 0, "Score": "0/5", "Review": "."},
-		{
-			"Id": 46,
-			"Title": "Outer Wilds",
-			"Description": "Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop. The newest member of the space program in a small village on the planet Timber Hearth, the player navigates a space shuttle and travels across their solar system to get to the bottom of its mysteries by exploring the cosmos and gathering the knowledge hidden within each of the system's planets, left behind by another civilization in the distant past.",
-			"Platform": "PC",
-			"Release": "29.05.2019",
-			"Developer": "Mobius Digital, Annapurna Interactive",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 46, "Title": "Outer Wilds", "Description": "Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop. The newest member of the space program in a small village on the planet Timber Hearth, the player navigates a space shuttle and travels across their solar system to get to the bottom of its mysteries by exploring the cosmos and gathering the knowledge hidden within each of the system's planets, left behind by another civilization in the distant past.", "Platform": "PC", "Release": "29.05.2019", "Developer": "Mobius Digital, Annapurna Interactive", "Link": "store.steampowered.com/app/753640", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 47,
 			"Title": "The Last of Us",
@@ -447,54 +172,10 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 49,
-			"Title": "Scratches",
-			"Description": "Scratches is a mystery adventure computer game by game developer Nucleosys. Scratches is the first commercial adventure game ever to be made in Argentina. The game tells the story of the Blackwood estate on the outskirts of Rothbury, a small rural town in Northumberland, England in 1976. Originally owned by James T. Blackwood in 1963, the house is passed to Christopher Milton after Mr. Blackwood is accused of murdering his wife. A couple of days later, Mr. Blackwood dies of a sudden heart attack though some in the town start rumors that he might have committed suicide. The police decide to close the case seeing there is no further evidence left. Shortly after acquiring the house, Milton inexplicably disappears in 1970 leaving no visible trace. The player assumes the role of the house's next inhabitant, Michael Arthate, an author seeking seclusion to work on his next book. He moves in only to find that the house still echoes its horrible past quite literally as scratches are heard all around, particularly in the basement and fireplaces, and soon becomes more interested in researching the house's history than his writing. Scratches uses a first person perspective to navigate around the house. Using only a mouse, the player can access various rooms and other places in order to solve the mystery of both Blackwood and Milton's disappearances. It features music and special sound effects by the now defunct Cellar of Rats, which contribute to the fearsome ambience experienced at the mansion, crypt, greenhouse and church. The game is heavily influenced by the H.P. Lovecraft mythos and several direct references to Lovecraft works make their appearances in Scratches. There are in-game references to the Necronomicon, De Vermis Mysteriis, Lovecraft's story 'The Mountains of Madness,' as well as one critics of Michael's book being called R'yleh. Michael states in the game he had just moved to Rothbury from Providence, Rhode Island-the hometown of Lovecraft.",
-			"Platform": "PC",
-			"Release": "08.03.2006",
-			"Developer": "Nucleosys, Got Game Entertainment",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 50,
-			"Title": "NieR Replicant ver.1.22474487139...",
-			"Description": "NieR Replicant ver.1.22474487139... is an updated version of NieR Replicant, previously only released in Japan. Discover the one-of-a-kind prequel to the critically-acclaimed masterpiece NieR: Automata. Now with a modern upgrade, experience masterfully revived visuals, a fascinating storyline and more!",
-			"Platform": "PC",
-			"Release": "22.04.2021",
-			"Developer": "Toylogic, Square Enix",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 51,
-			"Title": "Formless Star",
-			"Description": "The Formless Star, a mysterious planet whose surface constantly changes... You're Anemo, a field researcher for the Space Archives! Your assignment is to travel to the Formless Star and gather data on the animals that live there. Each time you step out of your spaceship, the land will change. A new world just for you! Discover 60 different alien creatures, all with with unique behaviours and descriptions.",
-			"Platform": "PC",
-			"Release": "16.03.2025",
-			"Developer": "splendidland",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 52,
-			"Title": "Virtual Girl @ World's End",
-			"Description": "A visual novel developed by HEADLOCK about Virtual YouTubers in an apocalyptic world.",
-			"Platform": "PC",
-			"Release": "12.06.2025",
-			"Developer": "Headlock, Bushiroad Games",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 49, "Title": "Scratches", "Description": "Scratches is a mystery adventure computer game by game developer Nucleosys. Scratches is the first commercial adventure game ever to be made in Argentina. The game tells the story of the Blackwood estate on the outskirts of Rothbury, a small rural town in Northumberland, England in 1976. Originally owned by James T. Blackwood in 1963, the house is passed to Christopher Milton after Mr. Blackwood is accused of murdering his wife. A couple of days later, Mr. Blackwood dies of a sudden heart attack though some in the town start rumors that he might have committed suicide. The police decide to close the case seeing there is no further evidence left. Shortly after acquiring the house, Milton inexplicably disappears in 1970 leaving no visible trace. The player assumes the role of the house's next inhabitant, Michael Arthate, an author seeking seclusion to work on his next book. He moves in only to find that the house still echoes its horrible past quite literally as scratches are heard all around, particularly in the basement and fireplaces, and soon becomes more interested in researching the house's history than his writing. Scratches uses a first person perspective to navigate around the house. Using only a mouse, the player can access various rooms and other places in order to solve the mystery of both Blackwood and Milton's disappearances. It features music and special sound effects by the now defunct Cellar of Rats, which contribute to the fearsome ambience experienced at the mansion, crypt, greenhouse and church. The game is heavily influenced by the H.P. Lovecraft mythos and several direct references to Lovecraft works make their appearances in Scratches. There are in-game references to the Necronomicon, De Vermis Mysteriis, Lovecraft's story 'The Mountains of Madness,' as well as one critics of Michael's book being called R'yleh. Michael states in the game he had just moved to Rothbury from Providence, Rhode Island-the hometown of Lovecraft.", "Platform": "PC", "Release": "08.03.2006", "Developer": "Nucleosys, Got Game Entertainment", "Link": "store.steampowered.com/app/46460", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 50, "Title": "NieR Replicant ver.1.22474487139...", "Description": "NieR Replicant ver.1.22474487139... is an updated version of NieR Replicant, previously only released in Japan. Discover the one-of-a-kind prequel to the critically-acclaimed masterpiece NieR: Automata. Now with a modern upgrade, experience masterfully revived visuals, a fascinating storyline and more!", "Platform": "PC", "Release": "22.04.2021", "Developer": "Toylogic, Square Enix", "Link": "store.steampowered.com/app/1113560", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 51, "Title": "Formless Star", "Description": "The Formless Star, a mysterious planet whose surface constantly changes... You're Anemo, a field researcher for the Space Archives! Your assignment is to travel to the Formless Star and gather data on the animals that live there. Each time you step out of your spaceship, the land will change. A new world just for you! Discover 60 different alien creatures, all with with unique behaviours and descriptions.", "Platform": "PC", "Release": "16.03.2025", "Developer": "splendidland", "Link": "splendidland.itch.io/formless-star", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 52, "Title": "Virtual Girl @ World's End", "Description": "A visual novel developed by HEADLOCK about Virtual YouTubers in an apocalyptic world.", "Platform": "PC", "Release": "11.06.2025", "Developer": "Headlock, Bushiroad Games", "Link": "store.steampowered.com/app/3290440", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 53,
 			"Title": "Dreaming Mary",
@@ -507,18 +188,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 54,
-			"Title": "Black Souls",
-			"Description": "A role-playing game from Eeny, meeny, miny, moe?.",
-			"Platform": "PC",
-			"Release": "TBA",
-			"Developer": "Unknown",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 54, "Title": "Black Souls", "Description": "Long, long ago, there existed a kingdom shrouded in dense mist: the Lost Empire. This mist twisted humans into terrifying beasts, plunging the world into despair. War raged endlessly. Heroes rose, seeking fame and glory. It is in this place you awaken—a nameless undead.", "Platform": "PC", "Release": "16.08.2025", "Developer": "Eeny, meeny, miny, moe?", "Link": "store.steampowered.com/app/3755860", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 55,
 			"Title": "Fatal Frame",
@@ -531,18 +201,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 56,
-			"Title": "0_abyssalSomewhere",
-			"Description": "Stroll through the waters of a concrete realm.",
-			"Platform": "PC",
-			"Release": "12.07.2018",
-			"Developer": "nonoise",
-			"Link": "nonoise.itch.io/abyssalsomewhere",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 56, "Title": "0_abyssalSomewhere", "Description": "Stroll through the waters of a concrete realm.", "Platform": "PC", "Release": "12.07.2018", "Developer": "nonoise", "Link": "nonoise.itch.io/abyssalsomewhere", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 57,
 			"Title": "Blank Dream",
@@ -555,42 +214,9 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 58,
-			"Title": "Slime Feet",
-			"Description": "Slime Feet is a linear visual novel, a love story for everyone who has ever had to love through a keyboard. Slime Feet is about the body horror of an inevitable drawn out death, and the lesbian slime feet cybersex that comes with it.",
-			"Platform": "PC",
-			"Release": "25.11.2024",
-			"Developer": "nadia nova",
-			"Link": "store.steampowered.com/app/3551200/slime_feet",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 59,
-			"Title": "Resident Evil 4",
-			"Description": "Resident Evil 4 is the sixth installment of the Resident Evil series praised as a revolution from the core games. It was the first title to implement a third-person view rather than the original fixed camera angles its predecessors had. Its mechanics have been completely revamped to incorporate fast-paced gunplay, quick controls and shoot-outs involving massive crowds of enemies in more open areas. The brand-new AI system and open environments allow enemies to work together to capture and corner Leon. Enemies are now humans, which allows them to climb up ladders, open doors, and use weapons throughout the game. Resident Evil 4 had one of the most tormented developments in any game, four proposed versions of the game were discarded by the developers before the finished product was released.",
-			"Platform": "GC",
-			"Release": "11.01.2005",
-			"Developer": "Capcom",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 60,
-			"Title": "Persona 4 Golden",
-			"Description": "An enhanced rerelease of Shin Megami Tensei: Persona 4 (2008) featuring quality-of-life improvements, gameplay enhancements, new locations, balance tweaks, online functionality, new difficulty options, an additional side character storyline and a changed endgame.",
-			"Platform": "PC",
-			"Release": "15.06.2012",
-			"Developer": "ATLUS",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 58, "Title": "Slime Feet", "Description": "Slime Feet is a linear visual novel, a love story for everyone who has ever had to love through a keyboard. Slime Feet is about the body horror of an inevitable drawn out death, and the lesbian slime feet cybersex that comes with it.", "Platform": "PC", "Release": "25.11.2024", "Developer": "nadia nova", "Link": "store.steampowered.com/app/3551200/slime_feet", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 59, "Title": "Resident Evil 4", "Description": "Resident Evil 4 is the sixth installment of the Resident Evil series praised as a revolution from the core games. It was the first title to implement a third-person view rather than the original fixed camera angles its predecessors had. Its mechanics have been completely revamped to incorporate fast-paced gunplay, quick controls and shoot-outs involving massive crowds of enemies in more open areas. The brand-new AI system and open environments allow enemies to work together to capture and corner Leon. Enemies are now humans, which allows them to climb up ladders, open doors, and use weapons throughout the game. Resident Evil 4 had one of the most tormented developments in any game, four proposed versions of the game were discarded by the developers before the finished product was released.", "Platform": "PC/GC", "Release": "11.01.2005", "Developer": "Capcom", "Link": "store.steampowered.com/app/254700", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 60, "Title": "Persona 4 Golden", "Description": "An enhanced rerelease of Shin Megami Tensei: Persona 4 (2008) featuring quality-of-life improvements, gameplay enhancements, new locations, balance tweaks, online functionality, new difficulty options, an additional side character storyline and a changed endgame.", "Platform": "PC", "Release": "15.06.2012", "Developer": "ATLUS", "Link": "store.steampowered.com/app/1113000", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 61,
 			"Title": "Xenoblade Chronicles 3",
@@ -1923,42 +1549,9 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 172,
-			"Title": "Danganronpa Another Episode: Ultra Despair Girls",
-			"Description": "Danganronpa Another Episode: Ultra Despair Girls is a horror action adventure spin-off game in the Danganronpa series of visual novel games, taking place between the events of Danganronpa: Trigger Happy Havoc and Danganronpa 2: Goodbye Despair. Unlike the visual novel gameplay of the previous games, Ultra Despair Girls is a third-person adventure game with horror elements, in which players control Komaru Naegi as she tries to survive in a city overrun by Monokuma robots.",
-			"Platform": "PC/PSV",
-			"Release": "01.09.2015",
-			"Developer": "Spkie Chunsoft, NIS America",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 173,
-			"Title": "Swollen to Bursting Until I am Disappearing on Purpose",
-			"Description": "'Swollen to Bursting' is a weirdo RPG in which something is very wrong. A flying saucer has crash landed in town, but it's Thursday so you have to go to work at the post office.",
-			"Platform": "PC",
-			"Release": "28.08.2023",
-			"Developer": "DECEMBER 7TH CREATIVE BUSINESS CORPORATION",
-			"Link": "store.steampowered.com/app/2411590/SWOLLEN_TO_BURSTING_UNTIL_I_AM_DISAPPEARING_ON_PURPOSE",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 174,
-			"Title": "DDinosaur with Double D's",
-			"Description": "DDinosaur has felt alone for millions of years now... Will she be able to find love without revealing her biggest secret? That she's a Dinosaur...with double D's.",
-			"Platform": "PC",
-			"Release": "26.02.2025",
-			"Developer": "Lekker Spelen",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 172, "Title": "Danganronpa Another Episode: Ultra Despair Girls", "Description": "Danganronpa Another Episode: Ultra Despair Girls is a horror action adventure spin-off game in the Danganronpa series of visual novel games, taking place between the events of Danganronpa: Trigger Happy Havoc and Danganronpa 2: Goodbye Despair. Unlike the visual novel gameplay of the previous games, Ultra Despair Girls is a third-person adventure game with horror elements, in which players control Komaru Naegi as she tries to survive in a city overrun by Monokuma robots.", "Platform": "PC/PSV", "Release": "01.09.2015", "Developer": "Spkie Chunsoft, NIS America", "Link": "store.steampowered.com/app/555950", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 173, "Title": "Swollen to Bursting Until I am Disappearing on Purpose", "Description": "'Swollen to Bursting' is a weirdo RPG in which something is very wrong. A flying saucer has crash landed in town, but it's Thursday so you have to go to work at the post office.", "Platform": "PC", "Release": "28.08.2023", "Developer": "DECEMBER 7TH CREATIVE BUSINESS CORPORATION", "Link": "store.steampowered.com/app/2411590", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 174, "Title": "DDinosaur with Double D's", "Description": "DDinosaur has felt alone for millions of years now... Will she be able to find love without revealing her biggest secret? That she's a Dinosaur...with double D's.", "Platform": "PC", "Release": "26.02.2025", "Developer": "Lekker Spelen", "Link": "store.steampowered.com/app/2473890", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 175,
 			"Title": "Umineko no Naku Koro ni Musu",
@@ -1971,18 +1564,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 176,
-			"Title": "Star of Providence",
-			"Description": "Star of Providence is a consolidated version of Monolith that integrates the DLC, Relics of the Past, into the base game. Star of Providence is a top down action shooter with procedurally generated elements. Explore a progression of floors as you make your way into the depths of the facility, encountering increasingly deadly enemies, fantastic weapons, upgrades, choices and revelations as you venture deeper towards a great and calamitous power.",
-			"Platform": "PC",
-			"Release": "07.06.2017",
-			"Developer": "Team D-13, Bigmode",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 176, "Title": "Star of Providence", "Description": "Star of Providence is a consolidated version of Monolith that integrates the DLC, Relics of the Past, into the base game. Star of Providence is a top down action shooter with procedurally generated elements. Explore a progression of floors as you make your way into the depths of the facility, encountering increasingly deadly enemies, fantastic weapons, upgrades, choices and revelations as you venture deeper towards a great and calamitous power.", "Platform": "PC", "Release": "07.06.2017", "Developer": "Team D-13, Bigmode", "Link": "store.steampowered.com/app/603960", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 177,
 			"Title": "Rabbit & Steel",
@@ -2283,30 +1865,8 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 202,
-			"Title": "Light Fall",
-			"Description": "Explore the Forgotten World of Numbra to uncover your mysterious past and save the land from an imminent threat. In this land of eternal night, you will rely on your Shadow Core to brave the many challenges and foes standing in your way. Do you have what it takes to survive in perilous Numbra? The Ultimate Freedom Control the Shadow Core and use it the way you see fit to face the challenges of the game. You can spawn this magical box beneath your feet to propel yourself into the air and move across the land at your own pace. With the Shadow Core, you become the master of your surroundings and create your own path. An Immersive Journey Load up Light Fall and immerse yourself in this strange universe where darkness prevails over the light. Joining you in this adventure, Stryx the old and grumpy owl, will act as your sidekick and in-game narrator. Depending on his mood, he will either offer useful advice or bluntly mock your failures. A Vast World to Explore With the Shadow Core in hand, reach new heights and explore every nook and cranny of Numbra. Wander through the Lunar Plain, the Marshlands of Sorrows, the Vipera's Forest and the Unknown Depths, where shortcuts, alternative paths, hidden collectibles and easter eggs await you in large numbers. Speedrun Competition Quench your thirst for competition in the complementary Speedrun Game Mode. Revisit the world of Numbra to compete with players worldwide and compare your fastest times with theirs on the online leaderboard.",
-			"Platform": "PC",
-			"Release": "26.04.2018",
-			"Developer": "Bishop Games",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 203,
-			"Title": "Saya no Uta",
-			"Description": "A horror visual novel about Fuminori Sakisaka, a medicine student who suffers an accident that leaves his perception of the world distorted: everything and everyone is perceived as a twisted mass of intestines, flesh and blood. Everything, except Saya.",
-			"Platform": "PC",
-			"Release": "26.12.2003",
-			"Developer": "NITRO PLUS, JAST USA",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 202, "Title": "Light Fall", "Description": "Explore the Forgotten World of Numbra to uncover your mysterious past and save the land from an imminent threat. In this land of eternal night, you will rely on your Shadow Core to brave the many challenges and foes standing in your way. Do you have what it takes to survive in perilous Numbra? The Ultimate Freedom Control the Shadow Core and use it the way you see fit to face the challenges of the game. You can spawn this magical box beneath your feet to propel yourself into the air and move across the land at your own pace. With the Shadow Core, you become the master of your surroundings and create your own path. An Immersive Journey Load up Light Fall and immerse yourself in this strange universe where darkness prevails over the light. Joining you in this adventure, Stryx the old and grumpy owl, will act as your sidekick and in-game narrator. Depending on his mood, he will either offer useful advice or bluntly mock your failures. A Vast World to Explore With the Shadow Core in hand, reach new heights and explore every nook and cranny of Numbra. Wander through the Lunar Plain, the Marshlands of Sorrows, the Vipera's Forest and the Unknown Depths, where shortcuts, alternative paths, hidden collectibles and easter eggs await you in large numbers. Speedrun Competition Quench your thirst for competition in the complementary Speedrun Game Mode. Revisit the world of Numbra to compete with players worldwide and compare your fastest times with theirs on the online leaderboard.", "Platform": "PC", "Release": "26.04.2018", "Developer": "Bishop Games", "Link": "store.steampowered.com/app/416830", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 203, "Title": "Saya no Uta", "Description": "A horror visual novel about Fuminori Sakisaka, a medicine student who suffers an accident that leaves his perception of the world distorted: everything and everyone is perceived as a twisted mass of intestines, flesh and blood. Everything, except Saya.", "Platform": "PC", "Release": "26.12.2003", "Developer": "NITRO PLUS, JAST USA", "Link": "store.steampowered.com/app/702050", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 204,
 			"Title": "Hot Wet",
@@ -2343,18 +1903,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 207,
-			"Title": "Atelier Sophie 2: The Alchemist of the Mysterious Dream",
-			"Description": "The latest entry in the series follows the beloved alchemist, Sophie Neuenmuller, shortly after her adventures in 2016’s Atelier Sophie: The Alchemist of the Mysterious Book.",
-			"Platform": "PC",
-			"Release": "24.02.2022",
-			"Developer": "Gust, Koei Tecmo America Corporation",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 207, "Title": "Atelier Sophie 2: The Alchemist of the Mysterious Dream", "Description": "The latest entry in the series follows the beloved alchemist, Sophie Neuenmuller, shortly after her adventures in 2016’s Atelier Sophie: The Alchemist of the Mysterious Book.", "Platform": "PC", "Release": "24.02.2022", "Developer": "Gust, Koei Tecmo America Corporation", "Link": "store.steampowered.com/app/1621310", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 208,
 			"Title": "Secret Thursday",
@@ -2379,18 +1928,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 210,
-			"Title": "Studio System: Guardian Angel",
-			"Description": "An investigation of a secret film studio underneath their school has lead 3 students down an estranged rabbit hole. With the fixed-camera as your weapon, shine a light on the truth and save your friends.",
-			"Platform": "PC",
-			"Release": "04.02.2025",
-			"Developer": "alreti circle",
-			"Link": "store.steampowered.com/app/2194790/Studio_System__Guardian_Angel",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 210, "Title": "Studio System: Guardian Angel", "Description": "An investigation of a secret film studio underneath their school has lead 3 students down an estranged rabbit hole. With the fixed-camera as your weapon, shine a light on the truth and save your friends.", "Platform": "PC", "Release": "04.02.2025", "Developer": "alreti circle", "Link": "store.steampowered.com/app/2194790", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 211,
 			"Title": "The Legend of Zelda: Echoes of Wisdom",
@@ -2403,18 +1941,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 212,
-			"Title": "NukiTashi",
-			"Description": "Seiran Island. Even here in paradise, there are those who work in the shadows to bring it down... Confront the tyranny of a twisted system in this long-awaited visual novel adventure.",
-			"Platform": "PC",
-			"Release": "23.06.2023",
-			"Developer": "Qruppo, Shiravune",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 212, "Title": "NukiTashi", "Description": "Seiran Island. Even here in paradise, there are those who work in the shadows to bring it down... Confront the tyranny of a twisted system in this long-awaited visual novel adventure.", "Platform": "PC", "Release": "23.06.2023", "Developer": "Qruppo, Shiravune", "Link": "store.steampowered.com/app/2399220", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 213,
 			"Title": "Ghost Suburb Zero",
@@ -2463,18 +1990,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 217,
-			"Title": "Trepang2",
-			"Description": "Become the ultimate badass in Trepang2: A gory, action-packed FPS set in the near future. Unleash all hell on your enemies, dodge bullets and leave a trail of destruction in this hardcore and frenetic shooter.",
-			"Platform": "PC",
-			"Release": "21.06.2023",
-			"Developer": "Trepang Studios, Team17 Digital",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 217, "Title": "Trepang2", "Description": "Become the ultimate badass in Trepang2: A gory, action-packed FPS set in the near future. Unleash all hell on your enemies, dodge bullets and leave a trail of destruction in this hardcore and frenetic shooter.", "Platform": "PC", "Release": "21.06.2023", "Developer": "Trepang Studios, Team17 Digital", "Link": "store.steampowered.com/app/1164940", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 218,
 			"Title": "Puyo Puyo SUN",
@@ -2499,30 +2015,8 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 220,
-			"Title": "Detective Beebo: Night at the Mansion",
-			"Description": "Detective Beebo is a Point-and-click mystery romcom with puzzle elements.",
-			"Platform": "PC",
-			"Release": "21.09.2024",
-			"Developer": "Bwobbers",
-			"Link": "bwobbers.itch.io/detective-beebo-night-at-the-mansion",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 221,
-			"Title": "Metal Slug XX",
-			"Description": "Metal Slug XX is an entry in the long-running series of side-scrolling shooters. It is a revised version of Metal Slug 7. The Peregrine Falcons, Marco, Eri, Clark, Tarma, Fio and Ralf, are once again running-and-gunning in colorfully hand-drawn levels, throwing grenades, driving vehicles and slashing enemies. Metal Slug XX includes various single-player features in the form of a Combat School that lets players return to previously completed missions while executing various objectives; a POW List that shows how many POWs were rescued in each level; and single-player Rankings. Players can also cooperate in Ad-Hoc while gunning down hordes of humorous foes using familiar weapons in seven distinct levels that will see our heroes traverse deserts, mountains, caves and lava pits to finally put an end to their longtime enemy. This revised version includes additional content including co-op multiplayer and downloadable content, as well as the character Leona Heidern.",
-			"Platform": "PC/X360/PSP/PSV",
-			"Release": "23.03.2010",
-			"Developer": "SNK, ATLUS",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 220, "Title": "Detective Beebo: Night at the Mansion", "Description": "Detective Beebo is a Point-and-click mystery romcom with puzzle elements.", "Platform": "PC", "Release": "21.09.2024", "Developer": "Bwobbers", "Link": "bwobbers.itch.io/detective-beebo-night-at-the-mansion", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 221, "Title": "Metal Slug XX", "Description": "Metal Slug XX is an entry in the long-running series of side-scrolling shooters. It is a revised version of Metal Slug 7. The Peregrine Falcons, Marco, Eri, Clark, Tarma, Fio and Ralf, are once again running-and-gunning in colorfully hand-drawn levels, throwing grenades, driving vehicles and slashing enemies. Metal Slug XX includes various single-player features in the form of a Combat School that lets players return to previously completed missions while executing various objectives; a POW List that shows how many POWs were rescued in each level; and single-player Rankings. Players can also cooperate in Ad-Hoc while gunning down hordes of humorous foes using familiar weapons in seven distinct levels that will see our heroes traverse deserts, mountains, caves and lava pits to finally put an end to their longtime enemy. This revised version includes additional content including co-op multiplayer and downloadable content, as well as the character Leona Heidern.", "Platform": "PC/X360/PSP/PSV", "Release": "23.03.2010", "Developer": "SNK, ATLUS", "Link": "store.steampowered.com/app/975680", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 222,
 			"Title": "Rance X: Showdown",
@@ -2535,18 +2029,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 223,
-			"Title": "Steins;Gate 0",
-			"Description": "Steins;Gate 0 is a Japanese visual novel. It is the fifth game in the Science Adventure series and the sequel to Steins;Gate. Like Steins;Gate, the game is described as a 'hypothetical science ADV'. The player assumes the role of Okabe Rintaro in the β World Timeline.",
-			"Platform": "PC/PS3/PSV",
-			"Release": "10.12.2015",
-			"Developer": "5pb., Spike Chunsoft",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 223, "Title": "Steins;Gate 0", "Description": "Steins;Gate 0 is a Japanese visual novel. It is the fifth game in the Science Adventure series and the sequel to Steins;Gate. Like Steins;Gate, the game is described as a 'hypothetical science ADV'. The player assumes the role of Okabe Rintaro in the β World Timeline.", "Platform": "PC/PS3/PSV", "Release": "10.12.2015", "Developer": "5pb., Spike Chunsoft", "Link": "store.steampowered.com/app/825630", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 224,
 			"Title": "The 25th Ward: The Silver Case",
@@ -2559,18 +2042,7 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 225,
-			"Title": "Princess Maker 2 Refine",
-			"Description": "Princess Maker 2 Refine offers a unique life simulation gameplay where the player takes a role as a father for a young girl and raise her into adulthood. Players have freedom of choices on how to raise the child, but each choice will impact on the outcome of what she will become.",
-			"Platform": "PC",
-			"Release": "30.09.2004",
-			"Developer": "Gainax, CyberFront Korea",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 225, "Title": "Princess Maker 2 Refine", "Description": "Princess Maker 2 Refine offers a unique life simulation gameplay where the player takes a role as a father for a young girl and raise her into adulthood. Players have freedom of choices on how to raise the child, but each choice will impact on the outcome of what she will become.", "Platform": "PC", "Release": "30.09.2004", "Developer": "Gainax, CyberFront Korea", "Link": "store.steampowered.com/app/523000", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 226,
 			"Title": "Ys II Chronicles+",
@@ -2643,30 +2115,8 @@
 			"Score": "0/5",
 			"Review": "."
 		},
-		{
-			"Id": 232,
-			"Title": "The Silver Case",
-			"Description": "PC",
-			"Platform": "This is the first time 'The Silver Case' has been fully localized to English. In this hit, the player takes control of the protagonist, a member of the Special Forces Unit 'Republic', from a first-person perspective. The game takes inspiration from the adventure and novel genres, leading the player through an in-depth story in which the truth is gradually revealed as they solve various puzzles, offering a fresh and unique experience.",
-			"Release": "07.12.2016",
-			"Developer": "Grasshopper Manufacture, NIS America",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
-		{
-			"Id": 233,
-			"Title": "Steins;Gate Elite",
-			"Description": "A remake of the original Steins;Gate that replaces the artwork from previous releases with repurposed FMV footage from the Steins;Gate anime adaptation.",
-			"Platform": "PC/PSV",
-			"Release": "17.09.2016",
-			"Developer": "5pb., Spike Chunsoft",
-			"Link": "",
-			"Played": 0,
-			"Score": "0/5",
-			"Review": "."
-		},
+		{"Id": 232, "Title": "The Silver Case", "Description": "PC", "Platform": "This is the first time 'The Silver Case' has been fully localized to English. In this hit, the player takes control of the protagonist, a member of the Special Forces Unit 'Republic', from a first-person perspective. The game takes inspiration from the adventure and novel genres, leading the player through an in-depth story in which the truth is gradually revealed as they solve various puzzles, offering a fresh and unique experience.", "Release": "07.12.2016", "Developer": "Grasshopper Manufacture, NIS America", "Link": "store.steampowered.com/app/476650", "Played": 0, "Score": "0/5", "Review": "."},
+		{"Id": 233, "Title": "Steins;Gate Elite", "Description": "A remake of the original Steins;Gate that replaces the artwork from previous releases with repurposed FMV footage from the Steins;Gate anime adaptation.", "Platform": "PC/PSV", "Release": "17.09.2016", "Developer": "5pb., Spike Chunsoft", "Link": "store.steampowered.com/app/819030", "Played": 0, "Score": "0/5", "Review": "."},
 		{
 			"Id": 1,
 			"Title": "",

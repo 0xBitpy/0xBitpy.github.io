@@ -1,78 +1,25 @@
 {
+	"tags": ["archive", "technology", "database", "gallery", "blog", "education", "museum", "retro", "forum", "art", "download", "random", "game", "radio", "wiki", "library"],
 	"websites":
 	[
-		{
-			"Id": 1,
-			"Title": "Database of Religous History, The",
-			"Link": "religiondatabase.org",
-			"Description": "",
-			"Tag": "database",
-			"Archived": 0
-		},
-		{
-			"Id": 2,
-			"Title": "Baza Systemu Indeksacji Archiwalnej (BaSIA)",
-			"Link": "basia.famula.pl",
-			"Description": "",
-			"Tag": "database",
-			"Archived": 0
-		},
-		{
-			"Id": 3,
-			"Title": "Animated Movies",
-			"Link": "am.animatedviews.com",
-			"Description": "",
-			"Tag": "database",
-			"Archived": 0
-		},
-		{
-			"Id": 4,
-			"Title": "WorldCat",
-			"Link": "search.worldcat.org",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 5,
-			"Title": "R/S Programmable Calculators",
-			"Link": "rskey.org",
-			"Description": "",
-			"Tag": "technology",
-			"Archived": 0
-		},
-		{
-			"Id": 6,
-			"Title": "Antithesis Blog",
-			"Link": "antithesis.com/blog",
-			"Description": "",
-			"Tag": "blog",
-			"Archived": 0
-		},
-		{
-			"Id": 7,
-			"Title": "BoardGameGeek",
-			"Link": "boardgamegeek.com",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 8,
-			"Title": "Akademia PARP",
-			"Link": "akademia.parp.gov.pl",
-			"Description": "",
-			"Tag": "courses",
-			"Archived": 0
-		},
-		{
-			"Id": 9,
-			"Title": "Information Architecture Institute, The",
-			"Link": "archie.iainstitute.org",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
+		{"Id": 1, "Title": "Database of Religous History, The", "Link": "religiondatabase.org",
+			"Description": "", "Tag": "database", "Archived": 0},
+		{"Id": 2, "Title": "Baza Systemu Indeksacji Archiwalnej (BaSIA)","Link": "basia.famula.pl",
+			"Description": "", "Tag": "database", "Archived": 0},
+		{"Id": 3, "Title": "Animated Movies", "Link": "am.animatedviews.com",
+			"Description": "", "Tag": "database", "Archived": 0},
+		{"Id": 4, "Title": "WorldCat", "Link": "search.worldcat.org",
+			"Description": "", "Tag": "", "Archived": 0},
+		{"Id": 5, "Title": "R/S Programmable Calculators", "Link": "rskey.org",
+			"Description": "", "Tag": "technology", "Archived": 0},
+		{"Id": 6, "Title": "Antithesis Blog", "Link": "antithesis.com/blog",
+			"Description": "", "Tag": "blog", "Archived": 0},
+		{"Id": 7, "Title": "BoardGameGeek", "Link": "boardgamegeek.com",
+			"Description": "", "Tag": "", "Archived": 0},
+		{"Id": 8, "Title": "Akademia PARP", "Link": "akademia.parp.gov.pl",
+			"Description": "", "Tag": "education", "Archived": 0},
+		{"Id": 9, "Title": "Information Architecture Institute, The", "Link": "archie.iainstitute.org",
+			"Description": "", "Tag": "", "Archived": 0},
 		{"Id": 10, "Title": "Wikenigma", "Link": "wikenigma.org.uk", "Description": "Wiki dedicated to documenting fundamental gaps in human knowledge", "Tag": "wiki", "Archived": 0},
 		{"Id": 11, "Title": "Garry Newman", "Link": "garry.net", "Description": "Blog of a video game developer behind Garry's Mod and Rust", "Tag": "blog", "Archived": 0},
 		{"Id": 12, "Title": "Fungi Photo", "Link": "fungiphoto.com", "Description": "Photos of fungi", "Tag": "gallery", "Archived": 0},
@@ -80,389 +27,128 @@
 		{"Id": 14, "Title": "Computerspielemuseum", "Link": "computerspielemuseum.de", "Description": "German museum about video games", "Tag": "museum", "Archived": 0},
 		{"Id": 15, "Title": "Marty PC", "Link": "martypc.net", "Description": "Virtual PC", "Tag": "fun", "Archived": 0},
 		{"Id": 16, "Title": "Glitch Gallery, The", "Link": "glitchgallery.org", "Description": "Online exhibition of pretty software bugs", "Tag": "gallery", "Archived": 0},
-		{
-			"Id": 17,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 18,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 19,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 20,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 21,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 22,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 23,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 24,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 25,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 26,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
+		{"Id": 17, "Title": "Toms' Kelly Blog", "Link": "twak.org", "Description": "Blog about procedural modelling, software enginnering and creating synthetic data", "Tag": "blog", "Archived": 0},
+		{"Id": 18, "Title": "FilmPolski.pl", "Link": "filmpolski.pl", "Description": "Database of Polish movies", "Tag": "database", "Archived": 0},
+		{"Id": 19, "Title": "RPGnet", "Link": "rpg.net", "Description": "Forum with sections on wargames, tabletop games and video games", "Tag": "forum", "Archived": 0},
+		{"Id": 20, "Title": "Australian Museum", "Link": "australian.museum",
+			"Description": "", "Tag": "museum", "Archived": 0},
+		{"Id": 21, "Title": "crackmes.one", "Link": "crackmes.one", "Description": "Reverse engineering puzzles", "Tag": "education", "Archived": 0},
+		{"Id": 22, "Title": "Superbad", "Link": "superbad.com", "Description": "Mystery site", "Tag": "art", "Archived": 0},
+		{"Id": 23, "Title": "Serial Experiments Lain", "Link": "3d.laingame.net", "Description": "Web reimplementation of the Serial Experiments Lain PSX game", "Tag": "game", "Archived": 0},
+		{"Id": 24, "Title": "Entomo", "Link": "entomo.pl", "Description": "Scarabs and butterflies of Poland", "Tag": "wiki", "Archived": 0},
+		{"Id": 25, "Title": "Project Randoms", "Link": "0xbeef.co.uk/random", "Description": "Random content from social media", "Tag": "random", "Archived": 0},
+		{"Id": 26, "Title": "BoardGameGeek", "Link": "boardgamegeek.com", "Description": "Everything related to board games", "Tag": "forum", "Archived": 0},
 		{
 			"Id": 27,
-			"Title": "",
-			"Link": "",
-			"Description": "",
+			"Title": "Every Noise at Once",
+			"Link": "everynoise.com",
+			"Description": "Map of music genres",
 			"Tag": "",
 			"Archived": 0
 		},
+		{"Id": 28, "Title": "The Cutting Room Floor", "Link": "tcrf.net", "Description": "Researching unused and cut content from video games", "Tag": "wiki", "Archived": 0},
 		{
-			"Id": 28,
+			"Id": 29,
 			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
+			"Link": "int10h.org/oldschool-pc-fonts",
+			"Description": "The Old School PC Fonts",
+			"Tag": "download",
 			"Archived": 0
 		},
-		{
-			"Id": 1,
-			"Title": "",
+		{"Id": 30, "Title": "Cameron's World", "Link": "cameronsworld.net", "Description": "A love letter to the Internet of old", "Tag": "retro", "Archived": 0},
+		{"Id": 31, "Title": "taquitos.net", "Link": "taquitos.net", "Description": "Snack food reviews", "Tag": "blog", "Archived": 0},
+		{"Id": 32, "Title": "BugGuide.net", "Link": "bugguide.net", "Description": "Forum dedicated to bugs", "Tag": "forum", "Archived": 0},
+		{"Id": 33, "Title": "Glass Museum", "Link": "theglassmuseum.com", "Description": "Museum of glass", "Tag": "museum", "Archived": 0},
+		{"Id": 34, "Title": "JSTOR", "Link": "jstor.org", "Description": "Academic community use digital technologies to preserve the scholarly record and to advance research and teaching in sustainable ways", "Tag": "library", "Archived": 0},
+		{"Id": 35, "Title": "xkcd.com", "Link": "xkcd.com", "Description": "webcomic about romance, sarcasm, math, and language", "Tag": "art", "Archived": 0},
+		{"Id": 36, "Title": "Cambridge English Dictionary", "Link": "dictionary.cambridge.org/us/dictionary",
+			"Description": "",
+			"Tag": "education", "Archived": 0},
+		{"Id": 37, "Title": "Voleflix", "Link": "vole.wtf/voleflix", "Description": "Public Domain Movies", "Tag": "database", "Archived": 0},
+		{"Id": 38, "Title": "Luggage Losers", "Link": "luggagelosers.com", "Description": "Live ranking of airlines by how much luggage they are losing right now", "Tag": "database", "Archived": 0},
+		{"Id": 39, "Title": "Windows 98 Icon Viewer", "Link": "win98icons.alexmeub.com", "Description": "Download W95 icons", "Tag": "download", "Archived": 0},
+		{"Id": 40, "Title": "Philosophy Bro", "Link": "philosophybro.com", "Description": "Explains complex ideas of philosophy in easy to understand language", "Tag": "education", "Archived": 0},
+		{"Id": 41, "Title": "MuscleWiki", "Link": "musclewiki.org", "Description": "Generate a workout for selected muscles", "Tag": "wiki", "Archived": 0},
+		{"Id": 42, "Title": "16colors", "Link": "16colo.rs", "Description": "Archive of ASCII and ANSI artpacks", "Tag": "archive", "Archived": 0},
+		{"Id": 43, "Title": "cari", "Link": "cari.institute", "Description": "Visual lexicon of various aesthetics", "Tag": "wiki", "Archived": 0},
+		{"Id": 44, "Title": "programming in the twenty-first century", "Link": "prog21.dadgum.com/archives.html", "Description": "Blog about programming", "Tag": "blog", "Archived": 0},
+		{"Id": 45, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 46, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 47, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 48, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "","Archived": 0},
+		{"Id": 49, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
+			"Tag": "", "Archived": 0},
+		{"Id": 50,
 			"Title": "",
+			"Link": "", 
+			"Description": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 51, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 52, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 53, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 54, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 55, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 56, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 57, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 58, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 59, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 60, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 61, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 62, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
+			"Tag": "", "Archived": 0},
+		{"Id": 63, "Title": "",
 			"Link": "",
 			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		
-				{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": "",
-			"Archived": 0
-		},
+			"Tag": "", "Archived": 0},
 		{
 			"Id": 1,
 			"Title": "",

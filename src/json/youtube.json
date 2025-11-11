@@ -142,13 +142,7 @@
 			"Watched": 1
 		},
 		{"Id": 21, "Title": "The Most Embarrassing Speedrun in Halo History", "Channel": "Frogarchist", "Link": "youtu.be/nebKDhbVOiE", "Watched": 1},
-		{
-			"Id": 22,
-			"Title": "",
-			"Channel": "",
-			"Link": "",
-			"Watched": 0
-		},
+		{"Id": 22, "Title": "A Summarization of My Thoughts On Monopoly Cheaters Edition", "Channel": "Massacre's Mansion", "Link": "youtu.be/KhzOu-rQjB0", "Watched": 1},
 		{
 			"Id": 23,
 			"Title": "",
@@ -269,7 +263,7 @@
 			"Watched": 0
 		},
 		{
-			"Id": 18,
+			"Id": 40,
 			"Title": "",
 			"Channel": "",
 			"Link": "",

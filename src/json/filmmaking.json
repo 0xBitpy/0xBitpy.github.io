@@ -1,18 +1,7 @@
 {
 	"filmmaking":
 	[
-		{
-			"Id": 1,
-			"Title": "The Thing",
-			"Description": "It tells a story of a group of American reasearchers in Antarctica who encounter the eponymous 'Thing'.",
-			"Release": "25.06.1982",
-			"Studio": "Universal Pictures",
-			"Link": "",
-			"Watched": 0,
-			"Score": "0/5",
-			"Review": ".",
-			"Genre": "movie"
-		},
+		{"Id": 1, "Title": "The Thing", "Description": "It tells a story of a group of American reasearchers in Antarctica who encounter the eponymous 'Thing'.", "Release": "25.06.1982", "Studio": "Universal Pictures", "Link": "", "Image": "", "Watched": 0, "Score": "0/5", "Review": ".", "Genre": "movie"},
 		{
 			"Id": 2,
 			"Title": "The Twilight Zone",
@@ -20,6 +9,7 @@
 			"Release": "1959",
 			"Studio": "Rod Serling",
 			"Link": "",
+			"Image": "",
 			"Watched": 0,
 			"Score": "0/5",
 			"Review": ".",
@@ -32,6 +22,7 @@
 			"Release": "25.07.2022",
 			"Studio": "Kyle Edward Ball",
 			"Link": "",
+			"Image": "",
 			"Watched": 0,
 			"Score": "0/5",
 			"Review": ".",
@@ -1561,33 +1552,22 @@
 			"Review": ".",
 			"Genre": ""
 		},
-		{
-			"Id": 131,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Studio": "",
-			"Link": "",
-			"Watched": 0,
-			"Score": "0/5",
-			"Review": ".",
-			"Genre": ""
-		},
+		{"Id": 131, "Title": "The Exorcist", "Description": "The film follows a demonic possesion of a young girl and the attempt to rescue her through an exorcism by two Catholic priests", "Release": "26.12.1973", "Studio": "William Friedkin", "Link": "", "Watched": 1, "Score": "4/5", "Review": "Classic from 'exorcism' genre, if you've seen this one, you have probably seen most of them. And this one is executed quite well.", "Genre": "movie"},
 		{
 			"Id": 132,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Studio": "",
+			"Title": "Akiba Maid War",
+			"Description": "Following her dream of being a cheerful and hardworking maid, Nagomi Wahira begins her new job at a maid cafe",
+			"Release": "07.10.2022",
+			"Studio": "Soichi Masui",
 			"Link": "",
 			"Watched": 0,
 			"Score": "0/5",
 			"Review": ".",
-			"Genre": ""
+			"Genre": "anime"
 		},
 		{
 			"Id": 133,
-			"Title": "",
+			"Title": "Kobayashi-san Chi no Maid Dragon",
 			"Description": "",
 			"Release": "",
 			"Studio": "",
@@ -1595,7 +1575,7 @@
 			"Watched": 0,
 			"Score": "0/5",
 			"Review": ".",
-			"Genre": ""
+			"Genre": "anime"
 		},
 		{
 			"Id": 134,

@@ -1,4 +1,5 @@
 {
+	"tags": ["doc", "tut", "gud"],
 	"docs":
 	[
 		{
@@ -6,68 +7,70 @@
 			"Title": "Reverse Engineering for Noobs",
 			"Link": "x86re.com",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 2,
 			"Title": "ARMv8 AArch64/ARM64 Full Beginner's Assembly Tutorial",
 			"Link": "mariokartwii.com/armv8",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 3,
 			"Title": "Giving an Academic Talk",
 			"Link": "people.eecs.berkeley.edu/~jrs/speaking.html",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 4,
 			"Title": "Learning a Foreign Language (Italian)",
 			"Link": "geometer.orgodi/learn.pdf",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 5,
 			"Title": "Malware Reverse Engineering for Beginners (Part 1)",
 			"Link": "intezer.com/blog/malware-reverse-engineering-beginners",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 6,
 			"Title": "Malware Reverse Engineering for Beginners (Part 2)",
 			"Link": "intezer.com/blog/incident-response/malware-reverse-engineering-for-beginners-part-2",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 7,
 			"Title": "What're you telling me, Ghidra?",
 			"Link": "byte.how/posts/what-are-you-telling-me-ghidra",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 8,
 			"Title": "Song Mod Creation Guide [Hatsune Miku: Project DIVA Mega Mix+]",
 			"Link": "gamebanana.comuts/15681",
 			"Description": "",
-			"Tag": "Tutorial"
+			"Tag": "tut"
 		},
 		{
 			"Id": 9,
 			"Title": "three.js",
 			"Link": "threejs.org/docs",
 			"Description": "",
-			"Tag": "Documentation"
+			"Tag": "doc"
 		},
-		{"Id": 10, "Title": "Qt", "Link": "doc.qt.io", "Description": "Cross-platform software development framework", "Tag": "Documentation"},
-		{"Id": 11, "Title": "Apache HBase", "Link": "hbase.apache.org", "Description": "Hadoop database, a distributed, scalable, big data store", "Tag": "Documentation"},
+		{"Id": 10, "Title": "Qt", "Link": "doc.qt.io", "Description": "Cross-platform software development framework", "Tag": "doc"},
+		{"Id": 11, "Title": "Apache HBase", "Link": "hbase.apache.org", "Description": "Hadoop database, a distributed, scalable, big data store", "Tag": "doc"},
+		{"Id": 12, "Title": "Jekyll", "Link": "jekyllrb.com/docs", "Description": "Static site generator", "Tag": "doc"},
+		{"Id": 13, "Title": "GTK", "Link": "gtk.org/docs", "Description": "UI development tool", "Tag": "doc"},
 		{
-			"Id": 12,
+			"Id": 14,
 			"Title": "",
 			"Link": "",
 			"Description": "",
@@ -79,20 +82,6 @@
 			"Link": "",
 			"Description": "",
 			"Tag": ""
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": ""
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": ""
-		},
+		}
 	]
 }

@@ -1,45 +1,9 @@
 {
 	"speedrun_challange":
 	[
-		{
-			"Id": 1,
-			"Title": "How I Beat The Hardest Wizard101 Challenge Ever",
-			"Runner": "",
-			"Game": "Wizard101",
-			"Link": "https://youtu.be/WXHrfrYBzpM",
-			"ArchivedLink": ""
-		},
-		{
-			"Id": 2,
-			"Title": "The Three Week Long Celeste Speedrun",
-			"Runner": "",
-			"Game": "Celeste",
-			"Link": "https://youtu.be/UGQ5rXStKXg",
-			"ArchivedLink": ""
-		},
-		{
-			"Id": 3,
-			"Title": "2 Hours of Pain",
-			"Runner": "Leon Talks a Lot",
-			"Game": "Minecraft",
-			"Link": "https://youtu.be/wApv3892enA",
-			"ArchivedLink": ""
-		},
-		{
-			"Id": 4,
-			"Title": "",
-			"Runner": "",
-			"Game": "",
-			"Link": "",
-			"ArchivedLink": ""
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Runner": "",
-			"Game": "",
-			"Link": "",
-			"ArchivedLink": ""
-		},
+		{"Id": 1, "Title": "How I Beat The Hardest Wizard101 Challenge Ever", "Runner": "Zeritt", "Game": "Wizard101", "Link": "youtu.be/WXHrfrYBzpM", "ArchivedLink": ""},
+		{"Id": 2, "Title": "The Three Week Long Celeste Speedrun", "Runner": "EuniverseCat", "Game": "Celeste", "Link": "youtu.be/UGQ5rXStKXg", "ArchivedLink": ""},
+		{"Id": 3, "Title": "2 Hours of Pain", "Runner": "Leon Talks a Lot", "Game": "Minecraft", "Link": "youtu.be/wApv3892enA", "ArchivedLink": ""},
+		{"Id": 4, "Title": "Cover Me in Debris in 15.250s [TAS]", "Runner": "Technes", "Game": "Minecraft", "Link": "youtu.be/fGYi18TZ9fg", "ArchivedLink": ""}
 	]
 }

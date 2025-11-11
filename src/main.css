@@ -42,7 +42,7 @@ nav li:nth-child(n) a:hover {background-color: var(--purple)}
 nav li:nth-child(2n) a:hover {background-color: var(--blue)}
 nav li:nth-child(3n) a:hover {background-color: var(--red)}
 nav li:nth-child(4n) a:hover {background-color: var(--neon-green)}
-nav li:nth-child(7) {float:right;}
+nav li:nth-child(6) {float:right;}
 
 .redirect {font-size:50px; text-align:center; margin-top:20px}
 .redirect img {width:128px; height:auto; margin:auto}
