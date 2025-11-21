@@ -27,6 +27,7 @@ em {color:var(--miku)}
 a {color:var(--blue)}
 code {}
 hr {margin:12px; color:var(--light-grey)}
+p {margin:0px}
 
 canvas {border:outset; width:90%}
 
