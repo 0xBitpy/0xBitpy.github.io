@@ -58,30 +58,3 @@
 			"Description": "",
 			"Tag": "tut"
 		},
-		{
-			"Id": 9,
-			"Title": "three.js",
-			"Link": "threejs.org/docs",
-			"Description": "",
-			"Tag": "doc"
-		},
-		{"Id": 10, "Title": "Qt", "Link": "doc.qt.io", "Description": "Cross-platform software development framework", "Tag": "doc"},
-		{"Id": 11, "Title": "Apache HBase", "Link": "hbase.apache.org", "Description": "Hadoop database, a distributed, scalable, big data store", "Tag": "doc"},
-		{"Id": 12, "Title": "Jekyll", "Link": "jekyllrb.com/docs", "Description": "Static site generator", "Tag": "doc"},
-		{"Id": 13, "Title": "GTK", "Link": "gtk.org/docs", "Description": "UI development tool", "Tag": "doc"},
-		{
-			"Id": 14,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": ""
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Link": "",
-			"Description": "",
-			"Tag": ""
-		}
-	]
-}

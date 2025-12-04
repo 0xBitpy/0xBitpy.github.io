@@ -43,7 +43,7 @@ nav li:nth-child(n) a:hover {background-color: var(--purple)}
 nav li:nth-child(2n) a:hover {background-color: var(--blue)}
 nav li:nth-child(3n) a:hover {background-color: var(--red)}
 nav li:nth-child(4n) a:hover {background-color: var(--neon-green)}
-nav li:nth-child(6) {float:right;}
+nav li:nth-child(7) {float:right;}
 
 .redirect {font-size:50px; text-align:center; margin-top:20px}
 .redirect img {width:128px; height:auto; margin:auto}
@@ -58,6 +58,10 @@ nav li:nth-child(6) {float:right;}
 .content .bar {padding-bottom:15px}
 .list_content {text-align:left; margin-left:4px; line-height:12px}
 .list_content a {color:var(--white)}
+
+.feed p {margin:auto; margin-bottom:5%; padding:15px; width:90%; text-align:left}
+.feed em {color:var(--darker-grey); font-size:35px}
+.feed p:after {content:url("./img/comment.png") url("./img/heart.png"); float:right}
 
 table {width:90%; margin:auto}
 td {border:4px outset var(--darker-grey); border-collapse:collapse; font-family:"XP"; font-size:23px; padding:7px}
