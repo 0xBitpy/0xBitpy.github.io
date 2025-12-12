@@ -52,7 +52,7 @@ nav li:nth-child(8) {float:right}
 .main {width:60%; float:left; text-align:center; font-size:40px; margin-top:50px; padding:0px}
 
 .content {display:inline-block; width:90%; text-align:left;}
-.content a {width:40%; text-align:center; padding-bottom:1%; margin:5% 4.25%; border-style:outset; display:inline-block; font-size:47px; border-color:var(--darker-grey); color:var(--white); word-wrap:break-word}
+.content a {width:40%; text-decoration:none; text-align:center; padding-bottom:1%; margin:5% 4.25%; border-style:outset; display:inline-block; font-size:47px; border-color:var(--darker-grey); color:var(--white); word-wrap:break-word}
 .content a:hover {background-color:var(--purple)}
 .content a em {font-size:35px}
 .content img {height:30%; width:95%; margin:auto}
