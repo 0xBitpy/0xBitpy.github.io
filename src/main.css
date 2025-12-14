@@ -57,13 +57,12 @@ nav li:nth-child(8) {float:right}
 .content a em {font-size:35px}
 .content img {height:30%; width:95%; margin:auto}
 .content ul {list-style:none; margin:1%}
-.content .bar {padding-bottom:15px}
 .list_content {text-align:left; margin-left:4px; line-height:12px}
 .list_content a {color:var(--white)}
 
 .feed p {margin:auto; margin-bottom:5%; padding:15px; width:90%; text-align:left}
 .feed em {color:var(--darker-grey); font-size:35px}
-.feed p:after {content:url("./img/comment.png") url("./img/heart.png"); float:right}
+.feed p::after {content:url("./img/comment.png") url("./img/heart.png"); float:right}
 
 table {width:90%; margin:auto}
 td {border:4px outset var(--darker-grey); border-collapse:collapse; font-family:"XP"; font-size:23px; padding:7px}
@@ -84,6 +83,6 @@ aside br {margin: 20px 0px}
 aside img {width:88px; height:31px; display:inline-block; padding:0px}
 
 .border {border-style:outset; border-color:var(--darker-grey); padding-bottom:15px; margin:10px 5px}
-.border br {margin-top:0px;}
-.bar {background-color:var(--dark-grey); padding:6px 3px; text-align:left; margin-bottom:10px; font-size:37px; line-height:24px}
-.bar img {width:14px; height:auto; text-align:right; float:right; padding-left:3px}
+.border br {margin-top:0px}
+.bar {background-color:var(--dark-grey); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
+.bar::after {content:url("./img/task24.png") url("./img/mini24.png") url("./img/close24.png"); float:right}
