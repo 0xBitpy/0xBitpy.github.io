@@ -1,14 +1,15 @@
 :root {
-	--black:#000000;
-	--dark-grey:#151515;
-	--darker-grey:#484848;
+	--greeny:#009800;
+	--greener:#009300;
 	--light-grey:#2b2b2b;
 	--white:#ffffff;
+	--green:#004100;
 	--purple:#8e00b8;
 	--light-purple:#7272ff;
 	--neon-green:#3fff00;
 	--blue:#6757ff;
 	--red:#ff1818;
+	--dark-green:#003000;
 	--miku:#52e7df;
 }
 
@@ -16,7 +17,7 @@
 @font-face {font-family:"XP"; src:url("./misc/W95.otf")}
 @font-face {font-family:"ZX"; src:url("./misc/ZXSpectrum.ttf")}
 
-body {font-family:"ZX"; margin:0px; padding:0px; background-color:var(--black); color:var(--white)}
+body {font-family:"ZX"; margin:0px; padding:0px; background-color:var(--green); color:var(--white)}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
 h1:before {content:">>"}
@@ -24,17 +25,10 @@ h2 {margin:0px}
 em {color:var(--miku)}
 a {color:var(--blue)}
 code {}
-hr {margin:12px; color:var(--light-grey)}
+hr {margin:12px; color:var(--greener)}
 p {margin:0px}
 
-canvas {border:outset; width:90%}
-
-.click {cursor:pointer; display:inline}
-#textload {font-size:57px}
-#imageload {width:50%; height:auto; margin:auto}
-#lastupdate {color:var(--darker-grey)}
-
-nav ul {list-style:none; background-color:var(--dark-grey); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%}								/* 1 */
+nav ul {list-style:none; background-color:var(--green); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%}								/* 1 */
 nav li {display:inline-block}
 nav li a {float:left; color:var(--white); display:block; font-family:"NotJamSlab"; text-align:center; padding:13px; font-size:24px}
 nav li:nth-child(n) a:hover {background-color: var(--purple)}
@@ -50,37 +44,25 @@ nav li:nth-child(8) {float:right}
 .main {width:60%; float:left; text-align:center; font-size:40px; margin-top:50px; padding:0px}
 
 .content {display:inline-block; width:90%; text-align:left;}
-.content a {width:40%; text-decoration:none; text-align:center; padding-bottom:1%; margin:5% 4.25%; border-style:outset; display:inline-block; font-size:47px; border-color:var(--darker-grey); color:var(--white); word-wrap:break-word}
-.content a:hover {background-color:var(--purple)}
+.content a {width:40%; text-decoration:none; text-align:center; padding-bottom:1%; margin:5% 4.25%; border-style:outset; display:inline-block; font-size:47px; border-color:var(--greener); color:var(--white); word-wrap:break-word}
+.content a:hover {background-color:var(--greeny)}
 .content a em {font-size:35px}
 .content img {height:30%; width:95%; margin:auto}
 .content ul {list-style:none; margin:1%}
 .list_content {text-align:left; margin-left:4px; line-height:12px}
 .list_content a {color:var(--white)}
 
-.feed p {margin:auto; margin-bottom:5%; padding:15px; width:90%; text-align:left}
-.feed em {color:var(--darker-grey); font-size:35px}
-.feed p::after {content:url("./img/comment.png") url("./img/heart.png"); float:right}
-
-table {width:90%; margin:auto}
-td {border:4px outset var(--darker-grey); border-collapse:collapse; font-family:"XP"; font-size:23px; padding:7px}
-td a {color: var(--white)}
-#web td:nth-child(2) {text-align:left}
-
-.contact {text-align:left; margin-left:2.5%; overflow-x:auto; overflow-y:hidden}
-.contact img {width:16px; height:auto; vertical-align:middle; padding-right:2%}
 .rec {text-align:left; margin-left:4px}
 .updates {text-align:left; margin-left:4px; line-height:15px}
 .updates em:before {content:">>"}
 .files {text-align:left; margin-left:4px; line-height:15px}
 .files a {color:var(--white); text-decoration:none}
-.stamps img {width:99px; height:56px}
 
 aside {width:20%; float:left; font-size:37px; text-align:center; line-height:10px}
 aside br {margin: 20px 0px}
 aside img {width:88px; height:31px; display:inline-block; padding:0px}
 
-.border {border-style:outset; border-color:var(--darker-grey); padding-bottom:15px; margin:10px 5px}
+.border {border-style:outset; border-color:var(--greener); background-color:var(--dark-green); padding-bottom:15px; margin:10px 5px}
 .border br {margin-top:0px}
-.bar {background-color:var(--dark-grey); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
-.bar::after {content:url("./img/task24.png") url("./img/mini24.png") url("./img/close24.png"); float:right}
+.bar {background-color:var(--greeny); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
+.bar::after {content:url("./img/gtask24.png") url("./img/gmini24.png") url("./img/gclose24.png"); float:right}
