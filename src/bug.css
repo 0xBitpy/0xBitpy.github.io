@@ -17,13 +17,15 @@
 @font-face {font-family:"XP"; src:url("./misc/W95.otf")}
 @font-face {font-family:"ZX"; src:url("./misc/ZXSpectrum.ttf")}
 
+html {cursor:url("./misc/Bug.cur"), default}
+
 body {font-family:"ZX"; margin:0px; padding:0px; background-color:var(--green); color:var(--white)}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
 h1:before {content:">>"}
 h2 {margin:0px}
 em {color:var(--miku)}
-a {color:var(--blue)}
+a {color:var(--blue); cursor:url("./misc/Bug.cur"), default}
 code {}
 hr {margin:12px; color:var(--greener)}
 p {margin:0px}
