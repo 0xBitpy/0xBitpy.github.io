@@ -21,21 +21,19 @@ html {cursor:url("./misc/Bug.cur"), default}
 body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--green); color:var(--white)}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
-h1:before {content:">>"}
-h2 {margin:0px}
+h1::before {content:">>"}
 em {color:var(--miku)}
 a {color:var(--blue); cursor:url("./misc/Bug.cur"), default}
-code {}
 hr {margin:12px; color:var(--greener)}
 p {margin:0px}
 
 nav ul {list-style:none; background-color:var(--green); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%}								/* 1 */
 nav li {display:inline-block}
 nav li a {float:left; color:var(--white); display:block; font-family:"NJS"; text-align:center; padding:13px; font-size:24px; letter-spacing:0px}
-nav li:nth-child(n) a:hover {background-color: var(--purple)}
-nav li:nth-child(2n) a:hover {background-color: var(--blue)}
-nav li:nth-child(3n) a:hover {background-color: var(--red)}
-nav li:nth-child(4n) a:hover {background-color: var(--neon-green)}
+nav li:nth-child(n) a:hover {background-color:var(--purple)}
+nav li:nth-child(2n) a:hover {background-color:var(--blue)}
+nav li:nth-child(3n) a:hover {background-color:var(--red)}
+nav li:nth-child(4n) a:hover {background-color:var(--neon-green)}
 nav li:nth-child(1) {float:left}
 nav li:nth-child(8) {float:right}
 
@@ -66,4 +64,4 @@ aside img {width:88px; height:31px; display:inline-block; padding:0px}
 .border {border-style:outset; border-color:var(--greener); background-color:var(--dark-green); padding-bottom:15px; margin:10px 5px}
 .border br {margin-top:0px}
 .bar {background-color:var(--greeny); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
-.bar::after {content:url("./img/gtask24.png") url("./img/gmini24.png") url("./img/gclose24.png"); float:right}
+.bar::after {content:url("./img/bar/gtask24.png") url("./img/bar/gmini24.png") url("./img/bar/gclose24.png"); float:right}

@@ -1,0 +1,45 @@
+:root {
+	--black-purple:#2d0042;
+	--dark-purple:#4d0072;
+	--darker-purple:#610090;
+	--light-purple:#7272ff;
+	--purple:#8e00b8;
+	--neon-green:#3fff00;
+	--blue:#6757ff;
+	--red:#ff1818;
+	--white:#ffffff;
+}
+/*630093*/
+@font-face {font-family:"NJS"; src:url("./misc/NotJamSlab14.ttf")}
+@font-face {font-family:"ZX"; src:url("./misc/ZXSpectrum.ttf")}
+
+body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--black-purple); color:var(--white)}
+body img {display:block; width:100%; height:auto}
+h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
+h1::before {content:">>"}
+a {color:var(--blue)}
+hr {margin:12px; color:var(--purple)}
+p {margin:0px}
+
+nav ul {list-style:none; background-color:#2a003e; padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%}								/* 1 */
+nav li {display:inline-block}
+nav li a {float:left; color:var(--white); display:block; font-family:"NJS"; text-align:center; padding:13px; font-size:24px; letter-spacing:0px}
+nav li:nth-child(n) a:hover {background-color:var(--purple)}
+nav li:nth-child(2n) a:hover {background-color:var(--blue)}
+nav li:nth-child(3n) a:hover {background-color:var(--red)}
+nav li:nth-child(4n) a:hover {background-color:var(--neon-green)}
+nav li:nth-child(1) {float:left}
+nav li:nth-child(10) {float:right}
+
+.main {width:95%; float:left; text-align:center; font-size:40px; margin:50px 0% 0% 2.5%; padding:0px}
+.main ol {list-style:none; padding:0% 1%; margin:10px 0px}
+.main ol a {text-decoration:none; color:white}
+.main li {border-bottom-style:dotted; border-color:var(--purple); text-align:left; font-size:42px}
+.main li em {float:right}
+.main li h2 {width:100%; margin:0px; font-size:50px}
+
+.content {display:inline-block; width:90%; text-align:left}
+
+.border {border-style:outset; border-color:var(--darker-purple); padding-bottom:15px; margin:10px 5px}
+.bar {background-color:var(--dark-purple); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
+.bar::after {content:url("./img/bar/ptask24.png") url("./img/bar/pmini24.png") url("./img/bar/pclose24.png"); float:right}
