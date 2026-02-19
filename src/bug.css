@@ -13,13 +13,12 @@
 	--miku:#52e7df;
 }
 
-@font-face {font-family:"NotJamSlab"; src:url("./misc/NotJamSlab14.ttf")}
-@font-face {font-family:"XP"; src:url("./misc/W95.otf")}
+@font-face {font-family:"NJS"; src:url("./misc/NotJamSlab14.ttf")}
 @font-face {font-family:"ZX"; src:url("./misc/ZXSpectrum.ttf")}
 
 html {cursor:url("./misc/Bug.cur"), default}
 
-body {font-family:"ZX"; margin:0px; padding:0px; background-color:var(--green); color:var(--white)}
+body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--green); color:var(--white)}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
 h1:before {content:">>"}
@@ -32,7 +31,7 @@ p {margin:0px}
 
 nav ul {list-style:none; background-color:var(--green); padding:0px; margin:0px; text-align:center; position:fixed; z-index:1; width:100%}								/* 1 */
 nav li {display:inline-block}
-nav li a {float:left; color:var(--white); display:block; font-family:"NotJamSlab"; text-align:center; padding:13px; font-size:24px}
+nav li a {float:left; color:var(--white); display:block; font-family:"NJS"; text-align:center; padding:13px; font-size:24px; letter-spacing:0px}
 nav li:nth-child(n) a:hover {background-color: var(--purple)}
 nav li:nth-child(2n) a:hover {background-color: var(--blue)}
 nav li:nth-child(3n) a:hover {background-color: var(--red)}
