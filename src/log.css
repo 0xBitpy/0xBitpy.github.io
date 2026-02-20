@@ -13,11 +13,13 @@
 @font-face {font-family:"NJS"; src:url("./misc/NotJamSlab14.ttf")}
 @font-face {font-family:"ZX"; src:url("./misc/ZXSpectrum.ttf")}
 
+html {cursor:url("./misc/Wii.cur"), default}
+
 body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--black-purple); color:var(--white)}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
 h1::before {content:">>"}
-a {color:var(--blue)}
+a {color:var(--blue); cursor:url("./misc/Wii.cur"), default}
 hr {margin:12px; color:var(--purple)}
 p {margin:0px}
 
@@ -32,6 +34,9 @@ nav li:nth-child(1) {float:left}
 nav li:nth-child(10) {float:right}
 
 .main {width:95%; float:left; text-align:center; font-size:40px; margin:50px 0% 0% 2.5%; padding:0px}
+.main button {background-color:var(--black-purple); color:white; font-family:"ZX"; font-size:45px; padding:7px 14px; margin:3px 7px; border:outset; border-color:var(--darker-purple); cursor:url("./misc/Wii.cur"), default}
+.main button:hover {background-color:var(--purple)}
+.main input {width:50%; background-color:var(--black-purple); color:white; font-family:"ZX"; font-size:45px; padding:7px 14px; margin:3px 7px; border:outset; border-color:var(--darker-purple)}
 .main ol {list-style:none; padding:0% 1%; margin:10px 0px}
 .main ol a {text-decoration:none; color:white}
 .main li {border-bottom-style:dotted; border-color:var(--purple); text-align:left; font-size:42px}
