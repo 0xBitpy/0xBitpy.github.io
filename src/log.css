@@ -42,6 +42,8 @@ nav li:nth-child(10) {float:right}
 .main li {border-bottom-style:dotted; border-color:var(--purple); text-align:left; font-size:42px}
 .main li em {float:right}
 .main li h2 {width:100%; margin:0px; font-size:50px}
+.main li details {display:block; padding:7px; margin-bottom:7px; background-color:var(--dark-purple)}
+.main li details summary {list-style:none; &::after {float:right; content:"\\/"} [open] &::after {content:"/\\"}}
 
 .content {display:inline-block; width:90%; text-align:left}
 
