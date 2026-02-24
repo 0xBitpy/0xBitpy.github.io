@@ -16,7 +16,7 @@
 @font-face {font-family:"NJS"; src:url("./misc/NotJamSlab14.ttf")}
 @font-face {font-family:"ZX"; src:url("./misc/ZXSpectrum.ttf")}
 
-html {cursor:url("./misc/Bug.cur"), default}
+html {cursor:url("./misc/Bug.cur"), default; font-size:0px}
 
 body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--green); color:var(--white)}
 body img {display:block; width:100%; height:auto}
