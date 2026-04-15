@@ -33,6 +33,8 @@ nav li:nth-child(4n) a:hover {background-color:var(--neon-green)}
 nav li:nth-child(1) {float:left}
 nav li:nth-child(10) {float:right}
 
+span a {color:var(--white)}
+
 .main {width:95%; float:left; text-align:center; font-size:40px; margin:50px 0% 0% 2.5%; padding:0px}
 .main button {background-color:var(--black-purple); color:white; font-family:"ZX"; font-size:45px; padding:7px 14px; margin:3px 7px; border:outset; border-color:var(--darker-purple); cursor:url("./misc/Wii.cur"), default}
 .main button:hover {background-color:var(--purple)}
