@@ -18,18 +18,6 @@
 			"Input": "Szalony Kurczak Zimowa",
 			"Key": "84732",
 			"Description": ""
-		},
-		{
-			"Id": 4,
-			"Input": "",
-			"Key": "",
-			"Description": ""
-		},
-		{
-			"Id": 1,
-			"Input": "",
-			"Key": "",
-			"Description": ""
-		},
+		}
 	]
 }

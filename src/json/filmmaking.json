@@ -1576,54 +1576,6 @@
 			"Score": "0/5",
 			"Review": ".",
 			"Genre": "anime"
-		},
-		{
-			"Id": 134,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Studio": "",
-			"Link": "",
-			"Watched": 0,
-			"Score": "0/5",
-			"Review": ".",
-			"Genre": ""
-		},
-		{
-			"Id": 135,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Studio": "",
-			"Link": "",
-			"Watched": 0,
-			"Score": "0/5",
-			"Review": ".",
-			"Genre": ""
-		},
-		{
-			"Id": 136,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Studio": "",
-			"Link": "",
-			"Watched": 0,
-			"Score": "0/5",
-			"Review": ".",
-			"Genre": ""
-		},
-		{
-			"Id": 1,
-			"Title": "",
-			"Description": "",
-			"Release": "",
-			"Studio": "",
-			"Link": "",
-			"Watched": 0,
-			"Score": "0/5",
-			"Review": ".",
-			"Genre": ""
-		},
+		}
 	]
 }

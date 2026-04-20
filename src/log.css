@@ -31,7 +31,7 @@ nav li:nth-child(2n) a:hover {background-color:var(--blue)}
 nav li:nth-child(3n) a:hover {background-color:var(--red)}
 nav li:nth-child(4n) a:hover {background-color:var(--neon-green)}
 nav li:nth-child(1) {float:left}
-nav li:nth-child(10) {float:right}
+nav li:nth-child(9) {float:right}
 
 span a {color:var(--white)}
 

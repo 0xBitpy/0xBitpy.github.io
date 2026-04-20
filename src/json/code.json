@@ -8,38 +8,6 @@
 			"Platform": "Windows",
 			"Link": "https://redscientist.com/rtc",
 			"Image": ""
-		},
-		{
-			"Id": 2,
-			"Name": "",
-			"Description": "",
-			"Platform": "",
-			"Link": "",
-			"Image": ""
-		},
-		{
-			"Id": 3,
-			"Name": "",
-			"Description": "",
-			"Platform": "",
-			"Link": "",
-			"Image": ""
-		},
-		{
-			"Id": 4,
-			"Name": "",
-			"Description": "",
-			"Platform": "",
-			"Link": "",
-			"Image": ""
-		},
-		{
-			"Id": 5,
-			"Name": "",
-			"Description": "",
-			"Platform": "",
-			"Link": "",
-			"Image": ""
-		},
+		}
 	]
 }
