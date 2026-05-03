@@ -17,7 +17,7 @@
 
 html {font-size:0px}
 
-body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--black); color:var(--white)}
+body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; color:var(--white); background-image:url("./img/back.jpg")}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
 h1::before {content:">>"}
@@ -59,7 +59,7 @@ nav li:nth-child(8) {float:right}
 
 .contact {text-align:left; margin-left:2.5%; overflow-x:auto; overflow-y:hidden}
 .contact img {width:16px; height:auto; vertical-align:middle; padding-right:2%}
-.rec {text-align:left; margin-left:4px}
+.rec {text-align:left; margin-left:4px; background-color:var(--black)}
 .updates {text-align:left; margin-left:4px; line-height:15px}
 .updates em:before {content:">>"}
 .files {text-align:left; margin-left:4px; line-height:15px}
@@ -70,7 +70,7 @@ aside {width:20%; float:left; font-size:37px; text-align:center; line-height:10p
 aside br {margin: 20px 0px}
 aside img {width:88px; height:31px; display:inline-block; padding:0px}
 
-.border {border-style:outset; border-color:var(--darker-grey); padding-bottom:15px; margin:10px 5px}
+.border {border-style:outset; border-color:var(--darker-grey); padding-bottom:15px; margin:10px 5px; background-color:var(--black)}
 .border br {margin-top:0px}
 .bar {background-color:var(--dark-grey); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
 .bar::after {content:url("./img/bar/task24.png") url("./img/bar/mini24.png") url("./img/bar/close24.png"); float:right}
