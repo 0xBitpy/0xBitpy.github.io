@@ -15,7 +15,7 @@
 
 html {cursor:url("./misc/Wii.cur"), default; font-size:0px}
 
-body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-color:var(--black-purple); color:var(--white)}
+body {font-family:"ZX"; letter-spacing:-3px; margin:0px; padding:0px; background-image:url("img/back_log.jpg"); color:var(--white)}
 body img {display:block; width:100%; height:auto}
 h1 {margin:0px; font-size:90px; padding:12px; font-style:italic}
 h1::before {content:">>"}
@@ -49,6 +49,6 @@ span a {color:var(--white)}
 
 .content {display:inline-block; width:90%; text-align:left}
 
-.border {border-style:outset; border-color:var(--darker-purple); padding-bottom:15px; margin:10px 5px}
+.border {border-style:outset; border-color:var(--darker-purple); padding-bottom:15px; margin:10px 5px; background-color:var(--black-purple)}
 .bar {background-color:var(--dark-purple); padding:6px 3px 15px 3px; text-align:left; margin-bottom:10px; font-size:42px; line-height:30px}
 .bar::after {content:url("img/bar/ptask24.png") url("img/bar/pmini24.png") url("img/bar/pclose24.png"); float:right}
